@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "Balendra (Balen) Shah",
+    "constituency": "Jhapa 5",
+    "role": "PM Candidate",
+    "opponent": "KP Sharma Oli (UML)",
+    "highlight": "The Clash of Titans. Aiming to end the 30-year establishment."
+  },
+  {
+    "id": 2,
+    "name": "Rabi Lamichhane",
+    "constituency": "Chitwan 2",
+    "role": "Party President",
+    "opponent": "Krishna Gopal Shrestha (UML)",
+    "highlight": "Defending the home of the Ghanti movement."
+  },
+  {
+    "id": 3,
+    "name": "Amresh Kumar Singh",
+    "constituency": "Sarlahi 4",
+    "role": "Independent / RSP Supporter",
+    "opponent": "Gagan Thapa (Congress)",
+    "highlight": "A crucial battle in the Madhesh plains."
+  },
+  {
+    "id": 4,
+    "name": "Toshima Karki",
+    "constituency": "Lalitpur 3",
+    "role": "Incumbent MP",
+    "opponent": "Jitendra Sonal (JSP)",
+    "highlight": "The voice of youth health and urban reform."
+  },
+  {
+    "id": 5,
+    "name": "Sobita Gautam",
+    "constituency": "Chitwan 3",
+    "role": "Incumbent MP",
+    "opponent": "Renu Dahal (NCP)",
+    "highlight": "The youngest MP takes on the 'Mayor of Bharatpur' in a high-stakes battle."
+  },
+  {
+    "id": 6,
+    "name": "Swarnim Wagle",
+    "constituency": "Tanahu 1",
+    "role": "Vice Chairman",
+    "opponent": "Govinda Bhattarai (NC)",
+    "highlight": "The architect of RSP's economic vision vs. the Congress stronghold."
+  },
+  {
+    "id": 7,
+    "name": "Sagar Dhakal",
+    "constituency": "Dadeldhura",
+    "role": "Youth Leader",
+    "opponent": "Nain Singh Mahar (NC)",
+    "highlight": "Continuing the 'Rematch' in the far-west, even without Deuba on the ballot."
+  },
+  {
+    "id": 8,
+    "name": "KP Khanal",
+    "constituency": "Kathmandu 7",
+    "role": "Environment Activist",
+    "opponent": "Manushi Yami Bhattarai (NCP)",
+    "highlight": "The garbage management hero vs. the daughter of the revolution."
+  },
+  {
+    "id": 9,
+    "name": "Shishir Khanal",
+    "constituency": "Kathmandu 6",
+    "role": "Former Education Minister",
+    "opponent": "Sabuj Baniya (NC)",
+    "highlight": "Championing education and technology in the heart of the capital."
+  },
+  {
+    "id": 10,
+    "name": "Biraj Bhakta Shrestha",
+    "constituency": "Kathmandu 8",
+    "role": "Former Sports Minister",
+    "opponent": "Umesh Sthapit (UML)",
+    "highlight": "A leader in heritage preservation and youth empowerment."
+  },
+  {
+    "id": 11,
+    "name": "Dr. Lekhjang Thapa",
+    "constituency": "Rupandehi 3",
+    "role": "Neurologist",
+    "opponent": "Deepak Bohora (RPP)*",
+    "highlight": "Applying scientific precision to regional governance."
+  },
+  {
+    "id": 12,
+    "name": "Ananda Bahadur Chand",
+    "constituency": "Baitadi 1",
+    "role": "Academic Leader",
+    "opponent": "Chatur B. Chand (NC)",
+    "highlight": "Bringing the 'Ghanti' wave to the far-west mountains."
+  },
+  {
+    "id": 13,
+    "name": "Ashok Chaudhary",
+    "constituency": "Sunsari 1",
+    "role": "MP / RSP Leader",
+    "opponent": "Harka Sampang (Independent)",
+    "highlight": "A battle for the soul of the east's rising youth population."
+  },
+  {
+    "id": 14,
+    "name": "Rajiv Khatri",
+    "constituency": "Kathmandu 1",
+    "role": "RSP Candidate",
+    "opponent": "Prakash Man Singh (NC)",
+    "highlight": "Challenging the 'Iron Man' for the most prestigious seat in Nepal."
+  },
+  {
+  "id": 15,
+  "name": "Sudan Gurung",
+  "constituency": "Gorkha 1",
+  "role": "Gen Z Leader / RSP",
+  "opponent": "Prem Khatri (NC)",
+  "highlight": "From the streets to the ballot. The Hami Nepal founder taking the revolution to Gorkha."
+  },
+  {
+  "id": 16,
+  "name": "Ashika Tamang",
+  "constituency": "Dhading 1",
+  "role": "Social Activist / RSP",
+  "opponent": "Rajendra Pandey (NCP)",
+  "highlight": "The 'People's Voice' taking on the old political guard in Dhading. A hero for the marginalized."
+  },
+  {
+  "id": 17,
+  "name": "Indira Rana Magar",
+  "constituency": "Jhapa 2",
+  "role": "Former Deputy Speaker",
+  "opponent": "Dev Raj Ghimire (UML)",
+  "highlight": "The guardian of children's rights and former Deputy Speaker taking on the Speaker of the House."
+  }
+]
