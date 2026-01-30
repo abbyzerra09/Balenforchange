@@ -132,6 +132,7 @@ export default function BalenRevolution2026() {
         <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-6">
           BALEN FOR <span className="bg-gradient-to-r from-blue-400 to-indigo-600 bg-clip-text text-transparent ">PM</span>
         </h1>
+        <p className='text-md md:text-2xl font-serif'>Time Remained for the Election</p>
         <div className="flex justify-center gap-3 md:gap-6 mt-8">
           {[
             { label: 'Days', val: timeLeft.days },
@@ -139,12 +140,14 @@ export default function BalenRevolution2026() {
             { label: 'Mins', val: timeLeft.mins },
             { label: 'Secs', val: timeLeft.secs }
           ].map((t) => (
+            <>
             <div key={t.label} className="group relative">
               <div className="bg-white/5 border border-white/10 backdrop-blur-md w-16 md:w-24 py-4 rounded-3xl transition-all group-hover:border-blue-500/50 group-hover:-translate-y-1">
                 <div className="text-2xl md:text-4xl font-black text-white">{String(t.val).padStart(2, '0')}</div>
                 <div className="text-[9px] uppercase tracking-widest text-slate-500 font-bold mt-1">{t.label}</div>
               </div>
             </div>
+            </>
           ))}
         </div>
       </header>
