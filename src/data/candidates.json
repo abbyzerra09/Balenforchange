@@ -880,5 +880,33 @@
     "constituency": "Kanchanpur-3",
     "role": "RSP Candidate",
     "highlight": "Mobilizing the youth for better trade infrastructure and academic reform."
+  },
+  {
+    "id": 127,
+    "name": "Rajesh Chaudhary",
+    "constituency": "Rautahat 1",
+    "role": "RSP Candidate",
+    "highlight": "Challenging the 'Fortress of Gaur' with a promise of transparent leadership."
+  },
+  {
+    "id": 128,
+    "name": "Sheikh Sagir",
+    "constituency": "Rautahat 2",
+    "role": "RSP Candidate",
+    "highlight": "Advocating for communal harmony and youth employment in Rautahat."
+  },
+  {
+    "id": 129,
+    "name": "Dhiraj Patel",
+    "constituency": "Rautahat 3",
+    "role": "RSP Candidate",
+    "highlight": "A new-age activist focused on digital literacy in the Madhesh heartland."
+  },
+  {
+    "id": 130,
+    "name": "Ganesh Paudel",
+    "constituency": "Rautahat 4",
+    "role": "RSP Candidate",
+    "highlight": "Challenging the traditional party dominance in northern Rautahat."
   }
 ]
