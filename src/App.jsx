@@ -201,10 +201,6 @@ export default function BalenRevolution2026() {
 
                   {/* RESTORED "AGAINST" SECTION */}
                   <div className="space-y-4 mb-8">
-                    <div className="flex items-center gap-3 text-sm">
-                      <div className="w-2 h-2 rounded-full bg-red-500"></div>
-                      <span className="text-slate-400">Against: <span className="text-slate-200 font-semibold">{c.opponent}</span></span>
-                    </div>
                     <p className="text-sm text-slate-300 leading-relaxed italic p-4 bg-white/5 rounded-2xl border-l-4 border-blue-500">
                       "{c.highlight}"
                     </p>

@@ -4,7 +4,6 @@
     "name": "Balendra (Balen) Shah",
     "constituency": "Jhapa 5",
     "role": "PM Candidate",
-    "opponent": "KP Sharma Oli (UML)",
     "highlight": "The Clash of Titans. Aiming to end the 30-year establishment."
   },
   {
@@ -12,7 +11,6 @@
     "name": "Rabi Lamichhane",
     "constituency": "Chitwan 2",
     "role": "Party President",
-    "opponent": "Krishna Gopal Shrestha (UML)",
     "highlight": "Defending the home of the Ghanti movement."
   },
   {
@@ -20,7 +18,6 @@
     "name": "Amresh Kumar Singh",
     "constituency": "Sarlahi 4",
     "role": "Independent / RSP Supporter",
-    "opponent": "Gagan Thapa (Congress)",
     "highlight": "A crucial battle in the Madhesh plains."
   },
   {
@@ -28,7 +25,6 @@
     "name": "Toshima Karki",
     "constituency": "Lalitpur 3",
     "role": "Incumbent MP",
-    "opponent": "Jitendra Sonal (JSP)",
     "highlight": "The voice of youth health and urban reform."
   },
   {
@@ -36,7 +32,6 @@
     "name": "Sobita Gautam",
     "constituency": "Chitwan 3",
     "role": "Incumbent MP",
-    "opponent": "Renu Dahal (NCP)",
     "highlight": "The youngest MP takes on the 'Mayor of Bharatpur' in a high-stakes battle."
   },
   {
@@ -44,31 +39,20 @@
     "name": "Swarnim Wagle",
     "constituency": "Tanahu 1",
     "role": "Vice Chairman",
-    "opponent": "Govinda Bhattarai (NC)",
     "highlight": "The architect of RSP's economic vision vs. the Congress stronghold."
   },
   {
     "id": 7,
     "name": "Sagar Dhakal",
-    "constituency": "Dadeldhura",
+    "constituency": "Gulmi 1",
     "role": "Youth Leader",
-    "opponent": "Nain Singh Mahar (NC)",
     "highlight": "Continuing the 'Rematch' in the far-west, even without Deuba on the ballot."
-  },
-  {
-    "id": 8,
-    "name": "KP Khanal",
-    "constituency": "Kathmandu 7",
-    "role": "Environment Activist",
-    "opponent": "Manushi Yami Bhattarai (NCP)",
-    "highlight": "The garbage management hero vs. the daughter of the revolution."
   },
   {
     "id": 9,
     "name": "Shishir Khanal",
     "constituency": "Kathmandu 6",
     "role": "Former Education Minister",
-    "opponent": "Sabuj Baniya (NC)",
     "highlight": "Championing education and technology in the heart of the capital."
   },
   {
@@ -76,7 +60,6 @@
     "name": "Biraj Bhakta Shrestha",
     "constituency": "Kathmandu 8",
     "role": "Former Sports Minister",
-    "opponent": "Umesh Sthapit (UML)",
     "highlight": "A leader in heritage preservation and youth empowerment."
   },
   {
@@ -84,7 +67,6 @@
     "name": "Dr. Lekhjang Thapa",
     "constituency": "Rupandehi 3",
     "role": "Neurologist",
-    "opponent": "Deepak Bohora (RPP)*",
     "highlight": "Applying scientific precision to regional governance."
   },
   {
@@ -92,7 +74,6 @@
     "name": "Ananda Bahadur Chand",
     "constituency": "Baitadi 1",
     "role": "Academic Leader",
-    "opponent": "Chatur B. Chand (NC)",
     "highlight": "Bringing the 'Ghanti' wave to the far-west mountains."
   },
   {
@@ -100,15 +81,13 @@
     "name": "Ashok Chaudhary",
     "constituency": "Sunsari 1",
     "role": "MP / RSP Leader",
-    "opponent": "Harka Sampang (Independent)",
     "highlight": "A battle for the soul of the east's rising youth population."
   },
   {
     "id": 14,
-    "name": "Rajiv Khatri",
+    "name": "Ranju darshana",
     "constituency": "Kathmandu 1",
     "role": "RSP Candidate",
-    "opponent": "Prakash Man Singh (NC)",
     "highlight": "Challenging the 'Iron Man' for the most prestigious seat in Nepal."
   },
   {
@@ -116,7 +95,6 @@
   "name": "Sudan Gurung",
   "constituency": "Gorkha 1",
   "role": "Gen Z Leader / RSP",
-  "opponent": "Prem Khatri (NC)",
   "highlight": "From the streets to the ballot. The Hami Nepal founder taking the revolution to Gorkha."
   },
   {
@@ -124,7 +102,6 @@
   "name": "Ashika Tamang",
   "constituency": "Dhading 1",
   "role": "Social Activist / RSP",
-  "opponent": "Rajendra Pandey (NCP)",
   "highlight": "The 'People's Voice' taking on the old political guard in Dhading. A hero for the marginalized."
   },
   {
@@ -132,7 +109,160 @@
   "name": "Indira Rana Magar",
   "constituency": "Jhapa 2",
   "role": "Former Deputy Speaker",
-  "opponent": "Dev Raj Ghimire (UML)",
   "highlight": "The guardian of children's rights and former Deputy Speaker taking on the Speaker of the House."
+  },
+  {
+  "id": 18,
+  "name": "Raju Nath Pandey",
+  "constituency": "Kathmandu 3",
+  "role": "RSP Candidate",
+  "highlight": "The former Chief of Kathmandu City Police who transitioned from enforcing law in the capital to seeking a direct role in national legislation."
+  },
+  {
+  "id": 19,
+  "name": "Rajiv Khatri",
+  "constituency": "Bhaktapur 2",
+  "role": "RSP Candidate",
+  "highlight": "A fresh face for the RSP in Bhaktapur, challenging political veterans in one of the most competitive suburban battlegrounds."
+  },
+  {
+  "id": 20,
+  "name": "Gajendra Mahato",
+  "constituency": "Udaypur 1",
+  "role": "RSP Candidate",
+  "highlight": "A dedicated local leader spearheading the RSP's 'Mission 2026' in Udaypur, focused on challenging the long-standing political status quo in the region."
+  },
+  {
+  "id": 21,
+  "name": "Binod Lama (Konika)",
+  "constituency": "Kavre 1",
+  "role": "RSP Candidate",
+  "highlight": "A fresh voice for the RSP in Kavre 1, aiming to break the traditional hold of the major parties with a focus on local development and youth representation."
+  },
+  {
+  "id": 22,
+  "name": "Dinesh Humagain",
+  "constituency": "Kavre 2",
+  "role": "RSP Candidate",
+  "highlight": "Returning to the race after a strong showing in 2022, Humagain is the RSP's pick to challenge the veteran leadership in Kavre's most high-profile seat."
+  },
+  {
+  "id": 23,
+  "name": "Uddhav Prasad Dahal",
+  "constituency": "Sindhuli 1",
+  "role": "RSP Candidate",
+  "highlight": "A local advocate for social justice, Dahal is leading the RSP's charge in the eastern belt of Sindhuli to challenge the traditional political strongholds."
+  },
+  {
+  "id": 24,
+  "name": "Anju Khadka",
+  "constituency": "Sindhuli 2",
+  "role": "RSP Candidate",
+  "highlight": "Representing a new generation of female leadership, Khadka is focusing on rural empowerment and transparency in local governance."
+  },
+  {
+  "id": 25,
+  "name": "Nisha Dangi",
+  "constituency": "Jhapa 1",
+  "role": "RSP Candidate",
+  "highlight": "A young, vocal parliamentarian and former PR member of the RSP, now taking on the direct challenge in the stronghold of veteran leaders."
+  },
+  {
+  "id": 26,
+  "name": "Prakash Pathak",
+  "constituency": "Jhapa 3",
+  "role": "RSP Candidate",
+  "highlight": "The RSP's local heavyweight and party's Jhapa district chair, challenging RPP Chairman Rajendra Lingden in one of the most high-stakes regional battles."
+  },
+  {
+  "id": 27,
+  "name": "Shambhu Prasad Dhakal",
+  "constituency": "Jhapa 4",
+  "role": "RSP Candidate",
+  "highlight": "The RSP's district secretary and a grass-roots organizer, leading the charge for reform in the rural stretches of Jhapa."
+  },
+  {
+  "id": 28,
+  "name": "Kamal Babu Mainali",
+  "constituency": "Morang 1",
+  "role": "RSP Candidate",
+  "highlight": "A dedicated local leader and social activist championing the RSP's vision for grassroots reform in the northern belt of Morang."
+  },
+  {
+  "id": 29,
+  "name": "Binodmani Bhattarai",
+  "constituency": "Morang 2",
+  "role": "RSP Candidate",
+  "highlight": "Bringing professional integrity to the forefront, Bhattarai is challenging the traditional political strongholds in the southern plains."
+  },
+  {
+  "id": 30,
+  "name": "Dr. Bikash Adhikari",
+  "constituency": "Morang 3",
+  "role": "RSP Candidate",
+  "highlight": "A medical professional entering the political arena, focusing on healthcare reform and sustainable development for the Morang-3 community."
+  },
+  {
+  "id": 31,
+  "name": "Netra Prasad Siwakoti",
+  "constituency": "Morang 4",
+  "role": "RSP Candidate",
+  "highlight": "A fresh face for the RSP in Morang 4, aiming to mobilize the youth vote against established party veterans."
+  },
+  {
+  "id": 32,
+  "name": "Rajesh Kumar Mandal",
+  "constituency": "Morang 5",
+  "role": "RSP Candidate",
+  "highlight": "A representative of the local Madheshi community, Mandal is focusing on inclusivity and economic transparency in the border region."
+  },
+  {
+  "id": 33,
+  "name": "Yadav Kumar Pradhan",
+  "constituency": "Morang 6",
+  "role": "RSP Candidate",
+  "highlight": "The RSP's pick to challenge political heavyweights like Shekhar Koirala, focusing on urban planning and administrative accountability in Biratnagar."
+  },
+  {
+  "id": 34,
+  "name": "Tulsi Prasad Chaudhari",
+  "constituency": "Udaypur 2",
+  "role": "RSP Candidate",
+  "highlight": "A dedicated representative focusing on the concerns of the inner-Terai and hilly communities, bringing the RSP's agenda of transparency to western Udaypur."
+  },
+  {
+    "id": 35,
+    "name": "Arun Shrestha",
+    "constituency": "Kathmandu 4",
+    "role": "RSP Candidate",
+    "highlight": "Contesting the seat vacated by Gagan Thapa, focusing on health sector reforms and youthful governance."
+  },
+  {
+    "id": 37,
+    "name": "Pradip Ghimire",
+    "constituency": "Kathmandu 2",
+    "role": "RSP Candidate",
+    "highlight": "Stepping into the seat vacated by Sobita Gautam to represent the RSP in this northeastern urban-rural mix."
+  },
+  {
+    "id": 38,
+    "name": "Ganesh Parajuli",
+    "constituency": "Kathmandu 7",
+    "role": "Incumbent MP",
+    "highlight": "Focused on heritage preservation and local entrepreneurship as he seeks a second term in Parliament."
+  },
+  {
+    "id": 40,
+    "name": "Tek Bahadur Pon",
+    "constituency": "Kathmandu 9",
+    "role": "RSP Candidate",
+    "highlight": "A dedicated social worker and party organizer representing the RSP in this diverse western constituency."
+  },
+  {
+    "id": 41,
+    "name": "Purnachand Paudel",
+    "constituency": "Kathmandu 10",
+    "role": "RSP Candidate",
+    "highlight": "An experienced administrative voice aiming to capture the Kirtipur and Dakshinkali belt for the alternative movement."
   }
 ]
