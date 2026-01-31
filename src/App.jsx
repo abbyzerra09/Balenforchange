@@ -2,8 +2,10 @@
 import { useState, useEffect } from 'react';
 import candidatesData from './data/candidates.json';
 import { db } from './firebase';
-import { doc, onSnapshot, updateDoc, increment, setDoc, getDoc, collection } from "firebase/firestore";
+import { doc, onSnapshot, updateDoc, increment, setDoc, collection } from "firebase/firestore";
 import confetti from 'canvas-confetti'; 
+// Import Lucide Icons
+import { Facebook, Instagram, Music2 } from 'lucide-react';
 
 export default function BalenRevolution2026() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -98,9 +100,28 @@ export default function BalenRevolution2026() {
   return (
     <div className="min-h-screen bg-[#060910] text-slate-100 selection:bg-blue-500 pb-20 overflow-x-hidden">
       
+      {/* 🌐 TOP SOCIAL BAR */}
+      <div className="w-full bg-black/60 backdrop-blur-md border-b border-white/5 py-3 px-6 flex justify-between items-center fixed top-0 z-100">
+        <span className="text-[10px] font-black tracking-[0.2em] text-slate-400 uppercase hidden md:block">
+          Connect with the Revolution
+        </span>
+        <div className="flex items-center gap-6 mx-auto md:mx-0">
+          <span className="text-[10px] font-bold text-blue-400 uppercase tracking-widest mr-2">Follow:</span>
+          <a href="https://www.facebook.com/rohit.thapa.44365" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-blue-500 transition-colors">
+            <Facebook size={18} />
+          </a>
+          <a href="https://www.instagram.com/yccm_rohit/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-pink-500 transition-colors">
+            <Instagram size={18} />
+          </a>
+          <a href="https://www.tiktok.com/@rohit_thapa09" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors">
+            <Music2 size={18} /> {/* Music2 is the standard icon used for TikTok style links */}
+          </a>
+        </div>
+      </div>
+
       {/* 📩 TOAST NOTIFICATION */}
       {popup.show && (
-        <div className="fixed top-5 left-1/2 -translate-x-1/2 z-[100] animate-bounce">
+        <div className="fixed top-20 left-1/2 -translate-x-1/2 z-100 animate-bounce">
           <div className="bg-blue-600 border-2 border-blue-400 px-8 py-3 rounded-full shadow-[0_0_30px_rgba(59,130,246,0.5)] flex items-center gap-3">
             <span className="font-bold text-sm md:text-base">{popup.message}</span>
           </div>
@@ -108,7 +129,7 @@ export default function BalenRevolution2026() {
       )}
 
       {/* 🔔 FLOATING BELL HUB */}
-      <div className="sticky top-6 z-50 w-full flex justify-center pointer-events-none">
+      <div className="sticky top-20 z-50 w-full flex justify-center pointer-events-none">
         <div className="pointer-events-auto group bg-black/40 backdrop-blur-3xl border border-white/10 p-1 rounded-full flex items-center pr-6 shadow-2xl transition-transform hover:scale-105">
           <button
             onClick={handleRingBell}
@@ -124,13 +145,14 @@ export default function BalenRevolution2026() {
         </div>
       </div>
 
-      <header className="relative pt-10 md:pt-24 pb-16 px-6 text-center overflow-hidden">
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-[500px] bg-blue-600/10 blur-[120px] rounded-full -z-10"></div>
+      {/* HEADER SECTION (Adjusted padding for the top bar) */}
+      <header className="relative pt-24 md:pt-32 pb-16 px-6 text-center overflow-hidden">
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-125 bg-blue-600/10 blur-[120px] rounded-full -z-10"></div>
         <div className="inline-flex items-center gap-2 bg-blue-500/10 border border-blue-500/20 px-4 py-1.5 rounded-full text-blue-400 text-[10px] font-black uppercase tracking-[0.3em] mb-8 animate-pulse">
             Live Election Countdown
         </div>
         <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-6">
-          BALEN FOR <span className="bg-gradient-to-r from-blue-400 to-indigo-600 bg-clip-text text-transparent ">PM</span>
+          BALEN FOR <span className="bg-linear-to-r from-blue-400 to-indigo-600 bg-clip-text text-transparent ">PM</span>
         </h1>
         <p className='text-md md:text-2xl font-serif'>Time Remained for the Election</p>
         <div className="flex justify-center gap-3 md:gap-6 mt-8">
@@ -140,19 +162,18 @@ export default function BalenRevolution2026() {
             { label: 'Mins', val: timeLeft.mins },
             { label: 'Secs', val: timeLeft.secs }
           ].map((t) => (
-            <>
             <div key={t.label} className="group relative">
               <div className="bg-white/5 border border-white/10 backdrop-blur-md w-16 md:w-24 py-4 rounded-3xl transition-all group-hover:border-blue-500/50 group-hover:-translate-y-1">
                 <div className="text-2xl md:text-4xl font-black text-white">{String(t.val).padStart(2, '0')}</div>
                 <div className="text-[9px] uppercase tracking-widest text-slate-500 font-bold mt-1">{t.label}</div>
               </div>
             </div>
-            </>
           ))}
         </div>
       </header>
 
       <main className="max-w-6xl mx-auto px-6">
+        {/* ... Rest of your search and card grid code remains the same ... */}
         <div className="max-w-xl mx-auto mb-16 relative group">
           <input
             type="text"
@@ -175,9 +196,7 @@ export default function BalenRevolution2026() {
               const progressWidth = (currentVotes / maxVotes) * 100;
               
               return (
-                <div key={c.id} className="group relative bg-gradient-to-b from-white/5 to-transparent border border-white/10 p-8 rounded-[2.5rem] hover:border-blue-500/40 transition-all duration-500 hover:-translate-y-2">
-                  
-                  {/* PROGRESS BAR */}
+                <div key={c.id} className="group relative bg-linear-to-b from-white/5 to-transparent border border-white/10 p-8 rounded-[2.5rem] hover:border-blue-500/40 transition-all duration-500 hover:-translate-y-2">
                   <div className="mb-6">
                     <div className="flex justify-between items-end mb-2">
                       <span className="text-[10px] font-black uppercase text-blue-400 tracking-widest">Support Momentum</span>
@@ -199,7 +218,6 @@ export default function BalenRevolution2026() {
                     <p className="text-blue-500 font-bold text-xs uppercase tracking-tighter mt-1">{c.role}</p>
                   </div>
 
-                  {/* RESTORED "AGAINST" SECTION */}
                   <div className="space-y-4 mb-8">
                     <p className="text-sm text-slate-300 leading-relaxed italic p-4 bg-white/5 rounded-2xl border-l-4 border-blue-500">
                       "{c.highlight}"
@@ -209,7 +227,7 @@ export default function BalenRevolution2026() {
                   <button
                     onClick={() => handleVote(c.name, c.id)}
                     disabled={hasVoted}
-                    className={`w-full font-black py-5 rounded-[1.5rem] transition-all flex items-center justify-center gap-3 overflow-hidden relative
+                    className={`w-full font-black py-5 rounded-3xl transition-all flex items-center justify-center gap-3 overflow-hidden relative
                       ${votedId === c.id.toString() 
                         ? 'bg-green-500/20 text-green-400 border border-green-500/50' 
                         : hasVoted 
