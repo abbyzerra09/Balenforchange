@@ -264,5 +264,40 @@
     "constituency": "Kathmandu 10",
     "role": "RSP Candidate",
     "highlight": "An experienced administrative voice aiming to capture the Kirtipur and Dakshinkali belt for the alternative movement."
+  },
+  {
+  "id": 42,
+  "name": "Tapendra Bahadur Rokaya",
+  "constituency": "Kailali 1",
+  "role": "RSP Candidate",
+  "highlight": "Challenging the stronghold of Nagarik Unmukti Party in Tikapur, Rokaya focuses on communal harmony and judicial fairness for the region's diverse population."
+  },
+  {
+  "id": 43,
+  "name": "Bhupdev Shah",
+  "constituency": "Kailali 2",
+  "role": "RSP Candidate",
+  "highlight": "The former Personal Secretary to Balen Shah, bringing the energy of the Kathmandu youth movement to the plains of Kailali to challenge traditional power structures."
+  },
+  {
+  "id": 44,
+  "name": "Birendra Bahadur Bam",
+  "constituency": "Kailali 3",
+  "role": "RSP Candidate",
+  "highlight": "A dedicated local activist focusing on irrigation and agricultural reform for the farming communities of Ghodaghodi and Bhajani."
+  },
+  {
+  "id": 45,
+  "name": "Laxmi Prasad Devkota",
+  "constituency": "Kailali 4",
+  "role": "RSP Candidate",
+  "highlight": "Taking on political heavyweights in the Godawari-Dhangadhi belt, Devkota campaigns on a platform of anti-corruption and administrative transparency."
+  },
+  {
+  "id": 46,
+  "name": "Ishwari Bista",
+  "constituency": "Kailali 5",
+  "role": "RSP Candidate",
+  "highlight": "Representing the provincial capital Dhangadhi, Bista is a leading female voice for the RSP, emphasizing health infrastructure and youth employment."
   }
 ]
