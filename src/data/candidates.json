@@ -1000,14 +1000,6 @@
     "highlights": "Representing the RSP's 'New Madhesh' agenda to replace old-school identity politics."
   },
   {
-    "id": 153,
-    "name": "Bikas Shah",
-    "constituency": "Bara 2",
-    "against": "Upendra Yadav (JSP)",
-    "role": "Youth Mobilizer",
-    "highlights": "Challenging regionalist leaders with a focus on national integration and local jobs."
-  },
-  {
     "id": 154,
     "name": "Dinesh Koirala",
     "constituency": "Chitwan 3",
@@ -1070,14 +1062,6 @@
     "against": "To be decided by chair",
     "role": "Community Coordinator",
     "highlights": "Focusing on the land rights of the landless and marginalized communities."
-  },
-  {
-    "id": 163,
-    "name": "Nitesh Kumar Jha",
-    "constituency": "Parsa 1",
-    "against": "Pradeep Yadav (UML)",
-    "role": "Commerce Expert",
-    "highlights": "Aims to make Birgunj a transparent economic gateway for Nepal."
   },
   {
     "id": 165,
@@ -1350,5 +1334,69 @@
     "against": "Gokul Baskota (UML) / NC Proxy Candidate",
     "role": "Civic Leader / Entrepreneur",
     "highlights": "Corruption ke khilaaf 'Ghanti' campaign ko lead kar rahe hain aur local businesses ke liye modern infrastructure ki maang kar rahe hain."
+  },
+  {
+    "id": 201,
+    "name": "Ganesh Dhimal",
+    "constituency": "Bara 1",
+    "against": "Achyut Mainali (UML) / Umakant Chaudhary (NC)",
+    "role": "Social Worker",
+    "highlights": "Bara-1 ma khetihar mazdooro na adhikar ane bhalai mate karya kari rahya chhe."
+  },
+  {
+    "id": 202,
+    "name": "Chandan Singh",
+    "constituency": "Bara 2",
+    "against": "Upendra Yadav (JSP) / Shivachandra Kushwaha (Janamat)",
+    "role": "Youth Leader",
+    "highlights": "Madhesh na rajakaran ma parivartan mate 'Ghanti' na abhiyan ne agal vadhavi rahya chhe."
+  },
+  {
+    "id": 203,
+    "name": "Arbind Sah",
+    "constituency": "Bara 3",
+    "against": "Jwala Kumari Sah (UML)",
+    "role": "Entrepreneur",
+    "highlights": "Sthanik udyogo ane rojgar na mava mate na vikas na mudda par bhar muki rahya chhe."
+  },
+  {
+    "id": 204,
+    "name": "Rahbar Ansari",
+    "constituency": "Bara 4",
+    "against": "Krishna Kumar Shrestha (NCP)",
+    "role": "Youth Reformist",
+    "highlights": "Shikshan ane arogya sevao ma sudhara mate sakriya chhe."
+  },
+  {
+    "id": 205,
+    "name": "Hari Pant",
+    "constituency": "Parsa 1",
+    "against": "Pradeep Yadav (JSP) / Ajay Dwivedi (NC)",
+    "role": "Commerce Expert",
+    "highlights": "Birgunj ne arthik gateway tarike vikasava mate parshasnik pardarshakata par bhar ape chhe."
+  },
+  {
+    "id": 206,
+    "name": "Sushil Patel",
+    "constituency": "Parsa 2",
+    "against": "Ajay Kumar Chaurasiya (NC)",
+    "role": "Civic Leader",
+    "highlights": "Parsa ma krushi modernizing ane sinchai yojanao mate ladi rahya chhe."
+  },
+  {
+    "id": 207,
+    "name": "Ramakant Chaurasiya",
+    "constituency": "Parsa 3",
+    "against": "Raj Kumar Gupta (UML)",
+    "role": "Social Reformer",
+    "highlights": "Sthanik corruption ne dur karava ane janseva na karyo mate jannita chhe."
+  },
+  {
+    "id": 208,
+    "name": "Tek Shakya",
+    "constituency": "Parsa 4",
+    "against": "Ramesh Rijal (NC)",
+    "role": "Development Advocate",
+    "highlights": "Rural infrastructure ane connectivity na vikas mate RSP na pratinidhi chhe."
   }
 ]
