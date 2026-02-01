@@ -168,14 +168,6 @@
     "highlights": "Bringing an intellectual approach to the RSP’s platform, focusing on evidence-based policy making."
   },
   {
-    "id": 22,
-    "name": "Sarin Tamang (Goma)",
-    "constituency": "Sunsari 1",
-    "against": "Surya Pandak",
-    "role": "Youth Voice",
-    "highlights": "A vibrant voice in Sunsari, focusing on RSP's mission to provide vocational training for the youth."
-  },
-  {
     "id": 23,
     "name": "Ranju Darshana",
     "constituency": "Kathmandu 1",
@@ -1414,5 +1406,37 @@
     "against": "Mahendra Kumar Ray (LSP)",
     "role": "Women's Empowerment Advocate",
     "highlights": "Mahila sakshaktikaran ani Mahottari madhil shishkan ani arogya suvidhansathi katibaddha."
+  },
+  {
+    "id": 213,
+    "name": "Sarin Tamang (Goma)",
+    "constituency": "Sunsari 1",
+    "against": "Surya Pandak (UML)",
+    "role": "Political Representative",
+    "highlights": "Active representative focusing on the development and social welfare of Sunsari 1."
+  },
+  {
+    "id": 214,
+    "name": "Lal Bikram",
+    "constituency": "Sunsari 2",
+    "against": "Jagadish Kusiyat (UML)",
+    "role": "Political Representative",
+    "highlights": "Dedicated to infrastructure and community growth within the Sunsari 2 region."
+  },
+  {
+    "id": 215,
+    "name": "Ashok Chaudhary",
+    "constituency": "Sunsari 3",
+    "against": "To be decided by chair (UML)",
+    "role": "Political Representative",
+    "highlights": "Focused on local governance and enhancing public services for Sunsari 3 residents."
+  },
+  {
+    "id": 216,
+    "name": "Dipak Kumar Shah",
+    "constituency": "Sunsari 4",
+    "against": "Bhagwati Chaudhary (UML)",
+    "role": "Political Representative",
+    "highlights": "Committed to economic development and regional advocacy for Sunsari 4."
   }
 ]
