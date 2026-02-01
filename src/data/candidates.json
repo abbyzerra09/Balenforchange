@@ -992,14 +992,6 @@
     "highlights": "Working on RSP’s 'Smart Village' initiative for the central Terai belt."
   },
   {
-    "id": 152,
-    "name": "Rameshwor Singh",
-    "constituency": "Mahottari 3",
-    "against": "Mahantha Thakur (LSP)",
-    "role": "Civic Leader",
-    "highlights": "Representing the RSP's 'New Madhesh' agenda to replace old-school identity politics."
-  },
-  {
     "id": 154,
     "name": "Dinesh Koirala",
     "constituency": "Chitwan 3",
@@ -1398,5 +1390,37 @@
     "against": "Ramesh Rijal (NC)",
     "role": "Development Advocate",
     "highlights": "Rural infrastructure ane connectivity na vikas mate RSP na pratinidhi chhe."
+  },
+  {
+    "id": 209,
+    "name": "Pramod Mahato",
+    "constituency": "Mahottari 1",
+    "against": "Giriraj Mani Pokharel (NCP) / Laxmi Mahato (UML)",
+    "role": "Social Activist",
+    "highlights": "Sthanik patalivaril bhrashtachar nirmoolan ani shetkaryanchya samasyansathi RSP kadun netrutva karat aahet."
+  },
+  {
+    "id": 210,
+    "name": "Dipak Sah",
+    "constituency": "Mahottari 2",
+    "against": "Sharat Singh Bhandari (LSP)",
+    "role": "Entrepreneur",
+    "highlights": "Vyapari ani udyojakanchya samasyanchi sodavanuk ani Madhesh madhe navin rojgarachya sandhi nirman karnyavar bhar."
+  },
+  {
+    "id": 211,
+    "name": "Ujjwal Jha",
+    "constituency": "Mahottari 3",
+    "against": "Mahantha Thakur (LSP)",
+    "role": "Youth Leader",
+    "highlights": "Ek mothya rajakiya chehryaviruddha 'Ghanti' campaign lead karat aahet, tyancha bhar digital governance var aahe."
+  },
+  {
+    "id": 212,
+    "name": "Gauri Kumari Yadav",
+    "constituency": "Mahottari 4",
+    "against": "Mahendra Kumar Ray (LSP)",
+    "role": "Women's Empowerment Advocate",
+    "highlights": "Mahila sakshaktikaran ani Mahottari madhil shishkan ani arogya suvidhansathi katibaddha."
   }
 ]
