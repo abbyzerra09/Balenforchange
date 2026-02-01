@@ -1,919 +1,1354 @@
 [
   {
-    "id": 9,
-    "name": "Birendra Shrestha",
-    "constituency": "Taplejung",
-    "role": "RSP Candidate",
-    "highlight": "An engineer and youth leader focusing on high-altitude infrastructure and transparency in the Pathivara region."
+    "id": 1,
+    "name": "Balendra Shah",
+    "constituency": "Jhapa 5",
+    "against": "KP Sharma Oli",
+    "role": "Structural Engineer / Urban Planner",
+    "highlights": "Symbolizing the youth-led revolution in governance, taking the RSP's reformist agenda directly to the heart of the old guard."
   },
   {
     "id": 2,
-    "name": "Rabi Lamichhane",
+    "name": "Ravi Lamichhane",
     "constituency": "Chitwan 2",
-    "role": "Party President",
-    "highlight": "Defending the home of the Ghanti movement."
-  },
-  {
-    "id": 5,
-    "name": "Sobita Gautam",
-    "constituency": "Chitwan 3",
-    "role": "Incumbent MP",
-    "highlight": "The youngest MP takes on the 'Mayor of Bharatpur' in a high-stakes battle."
-  },
-  {
-    "id": 124,
-    "name": "Mahendra Bikram Thamsuhang",
-    "constituency": "Panchthar",
-    "role": "Social Activist",
-    "highlight": "Championing indigenous Kirat rights and the development of the Mid-Hill Highway corridor."
+    "against": "Asmin Ghimire",
+    "role": "Party Chairman / Media Veteran",
+    "highlights": "The architect of the 'Ghanti' wave, leading the RSP with a mandate for radical transparency and anti-corruption."
   },
   {
     "id": 3,
-    "name": "Bimal Gadal",
-    "constituency": "Ilam 1",
-    "role": "RSP Candidate",
-    "highlight": "A fresh face for the 'Bell' in the tea-growing heartland, aiming to reform agricultural supply chains."
+    "name": "Sobita Gautam",
+    "constituency": "Chitwan 3",
+    "role": "MP / Legal Expert",
+    "against": "Renu Dahal (NCP)",
+    "highlights": "Moved from Kathmandu 2 to challenge the status quo in Bharatpur; advocate for constitutional reform."
   },
   {
     "id": 4,
-    "name": "Gokul Bahadur Rai",
-    "constituency": "Ilam 2",
-    "role": "RSP Candidate",
-    "highlight": "Leading the youth movement in a historic post-by-election battleground for educational reform."
+    "name": "Birendra Shrestha",
+    "constituency": "Taplejung",
+    "against": "To be decided by chair",
+    "role": "Grassroots Coordinator",
+    "highlights": "Dedicated to establishing the RSP's 'Ghanti' presence in the high-altitude eastern corridor, focusing on localized governance."
   },
   {
-    "id": 125,
-    "name": "Nisha Dangi",
-    "constituency": "Jhapa 1",
-    "role": "Incumbent MP",
-    "highlight": "One of the youngest female voices in Parliament, now seeking a direct mandate in the eastern gateway."
+    "id": 5,
+    "name": "Mahendra Bikram Thamsuhang",
+    "constituency": "Panchthar",
+    "against": "Aindra Sundar Nembang",
+    "role": "Social Reformer",
+    "highlights": "Advocating for the rights of indigenous communities through the RSP’s platform of inclusive democracy."
   },
   {
     "id": 6,
-    "name": "Indira Ranamagar",
-    "constituency": "Jhapa 2",
-    "role": "Former Deputy Speaker",
-    "highlight": "The internationally acclaimed social worker trading her legislative gavel for a direct representative role."
+    "name": "Bimal Gadal",
+    "constituency": "Ilam 1",
+    "against": "Kajiman Kagate",
+    "role": "Agricultural Advocate",
+    "highlights": "Focusing on modernizing the tea industry and ensuring transparent agricultural subsidies for Ilam's farmers."
   },
   {
     "id": 7,
-    "name": "Prakash Pathak",
-    "constituency": "District Chairman",
-    "role": "Jhapa 3",
-    "highlight": "The RSP's strategist in Jhapa, taking on veteran leadership with a focus on administrative accountability."
+    "name": "Gokul Bahadur Rai",
+    "constituency": "Ilam 2",
+    "against": "Suhang Nembang",
+    "role": "Community Leader",
+    "highlights": "Challenging traditional political legacies with RSP’s message of meritocracy and fresh leadership."
   },
   {
     "id": 8,
-    "name": "Shambhu Sushkera",
-    "constituency": "Jhapa 4",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for the rights of the Terai farming community and digital governance in rural Jhapa."
+    "name": "Nisha Dangi",
+    "constituency": "Jhapa 1",
+    "against": "Ramchandra Upreti",
+    "role": "Youth Politician",
+    "highlights": "Representing the RSP's commitment to gender-balanced leadership and youth participation in the federal parliament."
   },
   {
-    "id": 1,
-    "name": "Balendra (Balen) Shah",
-    "constituency": "Jhapa 5",
-    "role": "PM Candidate",
-    "highlight": "The Clash of Titans. The former Kathmandu Mayor targets the CPN-UML chairman's stronghold."
+    "id": 9,
+    "name": "Indira Ranamagar",
+    "constituency": "Jhapa 2",
+    "against": "Devraj Ghimire",
+    "role": "Social Activist / Humanitarian",
+    "highlights": "A globally recognized advocate for marginalized children, bringing a compassionate heart to the RSP’s legislative mission."
   },
   {
     "id": 10,
-    "name": "Mingma Sherpa",
-    "constituency": "Sankhuwasabha",
-    "role": "Global Mountaineer",
-    "highlight": "A world-record holder bringing a global vision for mountain tourism and hydropower to the national stage."
+    "name": "Prakash Pathak",
+    "constituency": "Jhapa 3",
+    "against": "To be decided by chair",
+    "role": "Transparency Advocate",
+    "highlights": "Promoting the RSP's 'Right to Information' agenda to ensure local government accountability in Jhapa."
   },
   {
     "id": 11,
-    "name": "Surendra Karki",
-    "constituency": "Terhathum",
-    "role": "Public Health Expert",
-    "highlight": "Applying scientific data to rural development and health infrastructure in the hills of Terhathum."
+    "name": "Shambhu Sushkera",
+    "constituency": "Jhapa 4",
+    "against": "Manoj Tamli",
+    "role": "Civic Rights Activist",
+    "highlights": "Mobilizing the silent majority in Jhapa 4 to ring the 'Ghanti' against entrenched political interests."
   },
   {
     "id": 12,
-    "name": "Ramesh Prasad Ojha",
-    "constituency": "Bhojpur",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for the 'forgotten' villages of Bhojpur through better road connectivity and internet access."
+    "name": "Mingma Sherpa",
+    "constituency": "Sankhuwasabha",
+    "against": "Dr Arjun Karki",
+    "role": "Tourism Entrepreneur",
+    "highlights": "Aims to leverage RSP’s policy framework to boost sustainable mountain tourism and infrastructure."
   },
   {
     "id": 13,
-    "name": "Dinesh Bhandari",
-    "constituency": "Dhankuta",
-    "role": "RSP Candidate",
-    "highlight": "Mobilizing a new generation in the historic capital of the East to break old political monopolies."
+    "name": "Surendra Karki",
+    "constituency": "Terhathum",
+    "against": "Bhanu Bhakta Dhakal",
+    "role": "Education Campaigner",
+    "highlights": "Championing the RSP’s 'Education First' policy to modernize public schools in the eastern hills."
   },
   {
     "id": 14,
-    "name": "Yagya Mani Neupane",
-    "constituency": "Morang 1",
-    "role": "Legal Advocate",
-    "highlight": "A legal expert focusing on judicial fairness and the protection of forest land in northern Morang."
+    "name": "Ramesh Prasad Ojha",
+    "constituency": "Bhojpur",
+    "against": "Sherdan Rai",
+    "role": "Local Governance Expert",
+    "highlights": "Focusing on dismantling administrative hurdles through RSP’s digitalization-of-services initiative."
   },
   {
     "id": 15,
-    "name": "Krishna Kumar Karki",
-    "constituency": "Morang 2",
-    "role": "RSP Candidate",
-    "highlight": "Challenging the elite political strongholds with a platform of economic transparency."
+    "name": "Dinesh Bhandari",
+    "constituency": "Dhankuta",
+    "against": "Rajendra Rai",
+    "role": "Youth Entrepreneur",
+    "highlights": "Promoting the RSP's entrepreneurship-friendly policies to prevent youth migration from Dhankuta."
   },
   {
     "id": 16,
-    "name": "Ganesh Karki",
-    "constituency": "Morang 3",
-    "role": "Medical Professional",
-    "highlight": "Bringing professional integrity to the ballot with a focus on the Pathari-Biratchowk healthcare gap."
+    "name": "Yagya Mani Neupane",
+    "constituency": "Morang 1",
+    "against": "Ghanshyam Khatriwada",
+    "role": "Legal Consultant",
+    "highlights": "Utilizing RSP’s focus on constitutional integrity to advocate for better legal protections for rural laborers."
   },
   {
     "id": 17,
-    "name": "Santosh Rajbanshi",
-    "constituency": "Morang 4",
-    "role": "RSP Candidate",
-    "highlight": "The voice of the Rajbanshi community and urban laborers in the industrial heart of Biratnagar."
+    "name": "Krishna Kumar Karki",
+    "constituency": "Morang 2",
+    "against": "Dilip Bagediya",
+    "role": "Public Service Motivator",
+    "highlights": "Driving the 'Ghanti' movement in Morang to replace corruption with competent service delivery."
   },
   {
     "id": 18,
-    "name": "Asha Jha",
-    "constituency": "Morang 5",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for female empowerment and cross-border trade reform in the southern plains."
+    "name": "Ganesh Karki",
+    "constituency": "Morang 3",
+    "against": "Dilip Rai",
+    "role": "Writer / Activist",
+    "highlights": "Leading the RSP’s intellectual and cultural narrative to challenge the political status quo in the industrial belt."
   },
   {
     "id": 19,
-    "name": "Rubina Acharya",
-    "constituency": "Morang 6",
-    "role": "Urban Planner",
-    "highlight": "Challenging political heavyweights with a scientific vision for Biratnagar’s urban expansion."
+    "name": "Santosh Rajbanshi",
+    "constituency": "Morang 4",
+    "against": "Jeevan Ghimire",
+    "role": "Social Inclusion Advocate",
+    "highlights": "Highlighting the RSP's commitment to the representation of indigenous Terai communities."
   },
   {
     "id": 20,
-    "name": "Sarin Tamang (Goma)",
-    "constituency": "Sunsari 1",
-    "role": "Provincial Leader",
-    "highlight": "The 'Bell' face of Dharan, aiming to secure victory in the most diverse youth belt of the East."
+    "name": "Asha Jha",
+    "constituency": "Morang 5",
+    "against": "To be decided by chair",
+    "role": "Women's Rights Defender",
+    "highlights": "Pushing for RSP’s agenda of gender equality and safety in the Madhesh region."
   },
   {
     "id": 21,
-    "name": "Lal Bikram",
-    "constituency": "Sunsari 2",
-    "role": "RSP Candidate",
-    "highlight": "Leading the charge for anti-corruption and better administrative services in Itahari."
+    "name": "Rubina Acharya",
+    "constituency": "Morang 6",
+    "against": "To be decided by chair",
+    "role": "Academician",
+    "highlights": "Bringing an intellectual approach to the RSP’s platform, focusing on evidence-based policy making."
   },
   {
     "id": 22,
-    "name": "Ashok Chaudhary",
-    "constituency": "Sunsari 3",
-    "role": "Incumbent MP",
-    "highlight": "Defending his role as a champion for the indigenous Tharu community and agricultural reform."
+    "name": "Sarin Tamang (Goma)",
+    "constituency": "Sunsari 1",
+    "against": "Surya Pandak",
+    "role": "Youth Voice",
+    "highlights": "A vibrant voice in Sunsari, focusing on RSP's mission to provide vocational training for the youth."
   },
   {
     "id": 23,
-    "name": "Dipak Kumar Shah",
-    "constituency": "Sunsari 4",
-    "role": "Health Activist",
-    "highlight": "A humanitarian leader focusing on universal healthcare and eye-care services for the poor."
+    "name": "Ranju Darshana",
+    "constituency": "Kathmandu 1",
+    "against": "Mohan Regmi",
+    "role": "Pioneer of Alternative Politics",
+    "highlights": "A key figure in the RSP’s quest to reshape Kathmandu’s political landscape with honesty and energy."
   },
   {
     "id": 24,
-    "name": "Rishidhan Rai",
-    "constituency": "Solukhumbu",
-    "role": "RSP Candidate",
-    "highlight": "Connecting the Everest region to the national digital grid and promoting transparent tourism."
+    "name": "Dr. Toshima Karki",
+    "constituency": "Lalitpur 3",
+    "against": "To be decided by chair",
+    "role": "Medical Surgeon / Health Advocate",
+    "highlights": "The face of RSP’s healthcare reform, known for her relentless pursuit of affordable and accessible medical care."
   },
   {
     "id": 25,
-    "name": "Rudra Giri",
-    "constituency": "Khotang",
-    "role": "RSP Candidate",
-    "highlight": "Mobilizing the hills for better road safety and rural empowerment projects."
+    "name": "Swarnim Wagle",
+    "constituency": "Tanahun 1",
+    "against": "Bhagwati Nyaupane",
+    "role": "Global Economist",
+    "highlights": "Representing the RSP’s intellectual rigor, aiming to overhaul Nepal's economy through systematic policy reform."
   },
   {
     "id": 26,
-    "name": "Bishwaraj Pokharel",
-    "constituency": "Okhaldhunga",
-    "role": "Former AIGP",
-    "highlight": "A law-and-order veteran bringing high-level administrative experience to the political arena."
+    "name": "Sagar Dhakal",
+    "constituency": "Gulmi 1",
+    "against": "Pradeep Gyawali",
+    "role": "Environmental Engineer",
+    "highlights": "Challenging established leaders with the RSP's 'Next-Gen' leadership vision, focusing on sustainable development."
   },
   {
     "id": 27,
-    "name": "Parash Gelal",
-    "constituency": "Udayapur 1",
-    "role": "RSP Candidate",
-    "highlight": "Representing the change movement in the inner-Terai with a focus on education."
+    "name": "Gobinda Panthi",
+    "constituency": "Gulmi 2",
+    "against": "Gokarna Bista",
+    "role": "Social Activist",
+    "highlights": "Focusing on community-driven development and ringing the 'Ghanti' to bring transparency to local administrative budgets."
   },
   {
     "id": 28,
-    "name": "Surya Bahadur Tamang",
-    "constituency": "Udayapur 2",
-    "role": "RSP Candidate",
-    "highlight": "A dedicated local voice focusing on hilly agricultural reform and cottage industries."
+    "name": "Bimal Pant",
+    "constituency": "Palpa 1",
+    "against": "Narayan Acharya",
+    "role": "Education Reformist",
+    "highlights": "Advocating for digital literacy and quality public education as part of RSP's commitment to long-term human capital growth."
   },
   {
     "id": 29,
-    "name": "Jagdish Kharel",
-    "constituency": "Dolakha",
-    "role": "Media Veteran",
-    "highlight": "The voice of the people, aiming to bring oversight and journalistic integrity to legislation."
+    "name": "Madhav Thapa",
+    "constituency": "Palpa 2",
+    "against": "Bishnu Prasad Paudel",
+    "role": "District Chairman / Youth Leader",
+    "highlights": "A former Congress youth leader now driving the RSP mission for zero tolerance against corruption and ensuring youth stay in Palpa."
   },
   {
     "id": 30,
-    "name": "Krishna Hari Budhathoki",
-    "constituency": "Ramechhap",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for hydroelectric royalties to directly benefit local Ramechhap households."
+    "name": "Hari Prasad Bhusal",
+    "constituency": "Arghakhanchi",
+    "against": "Pitambar Bhusal",
+    "role": "Regional Coordinator",
+    "highlights": "Dedicated to organizing the 'Ghanti' wave in the hill districts to replace traditional patronage with service-oriented politics."
   },
   {
     "id": 31,
-    "name": "Dhanendra Karki",
-    "constituency": "Sindhuli 1",
-    "role": "RSP Candidate",
-    "highlight": "Focusing on road safety on the BP Highway and better market access for local farmers."
+    "name": "Bikram Khanal",
+    "constituency": "Nawalparasi 1",
+    "against": "Ram Prasad Pandey",
+    "role": "Public Service Advocate",
+    "highlights": "Aiming to streamline industrial and agricultural policies in the Terai through RSP's technocratic governance model."
   },
   {
     "id": 32,
-    "name": "Ashish Gajurel",
-    "constituency": "Sindhuli 2",
-    "role": "Transport Engineer",
-    "highlight": "A national expert on infrastructure, seeking to fix the core connectivity issues of Sindhuli."
+    "name": "Narendra Kumar Gupta",
+    "constituency": "Nawalparasi 2",
+    "against": "Bhagwati Prasad Yadav",
+    "role": "Legal Professional",
+    "highlights": "Pushing for administrative reforms and legal clarity to protect the rights of sugarcane farmers in the region."
   },
   {
     "id": 33,
-    "name": "Basanta Bhatt",
-    "constituency": "Rasuwa",
-    "role": "RSP Candidate",
-    "highlight": "Promoting transparent border trade and sustainable tourism in the northern gateway."
+    "name": "Sunil Lamsal",
+    "constituency": "Rupandehi 1",
+    "against": "To be decided by chair",
+    "role": "IT Consultant / Urban Strategist",
+    "highlights": "Utilizing data and digital tools to propose a smart-city framework for Rupandehi's urban expansion."
   },
   {
     "id": 34,
-    "name": "Ashika Tamang",
-    "constituency": "Dhading 1",
-    "role": "Social Activist",
-    "highlight": "The 'People's Hero' whose grassroots work for the marginalized has made her a provincial icon."
+    "name": "Sulabh Kharel",
+    "constituency": "Rupandehi 2",
+    "against": "To be decided by chair",
+    "role": "Management Expert",
+    "highlights": "Campaigning on the RSP platform for professionalized public management and efficient local tax utilization."
   },
   {
     "id": 35,
-    "name": "Bodhanarayan Shrestha",
-    "constituency": "Dhading 2",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for better resource allocation and justice for the earthquake-hit communities."
+    "name": "Lekh Jung Thapa",
+    "constituency": "Rupandehi 3",
+    "against": "Basudev Ghimire",
+    "role": "Youth Entrepreneur",
+    "highlights": "Ringing the 'Ghanti' for a business-friendly environment that fosters innovation and local employment."
   },
   {
     "id": 36,
-    "name": "Dr. Vikram Timilsina",
-    "constituency": "Nuwakot 1",
-    "role": "Medical Doctor",
-    "highlight": "A doctor-turned-politician aiming to heal the broken rural health system of Nuwakot."
+    "name": "Kanya Banaya",
+    "constituency": "Rupandehi 4",
+    "against": "To be decided by chair",
+    "role": "Community Liaison",
+    "highlights": "Strengthening the RSP's outreach in the southern plains by focusing on inclusive and transparent health services."
   },
   {
     "id": 37,
-    "name": "Dr. Achyut Ram Lamichhane",
-    "constituency": "Nuwakot 2",
-    "role": "Academic Leader",
-    "highlight": "Bringing intellectual rigor to local governance and youth empowerment programs."
+    "name": "Tafiq Ahmad Khan",
+    "constituency": "Rupandehi 5",
+    "against": "Khimlal Bhattarai",
+    "role": "Social Inclusion Advocate",
+    "highlights": "Representing the RSP’s vision of a secular, inclusive Nepal where every minority voice is amplified by the 'Ghanti'."
   },
   {
     "id": 38,
-    "name": "Ranju Darshana",
-    "constituency": "Kathmandu 1",
-    "role": "Political Reformer",
-    "highlight": "The pioneer of youth politics, challenging the establishment in the nation's most elite seat."
+    "name": "Mohan Acharya",
+    "constituency": "Kapilvastu 1",
+    "against": "Bishram Chaudhary",
+    "role": "Local Governance Specialist",
+    "highlights": "Advocating for the decentralization of power to empower Kapilvastu’s rural municipalities through RSP policies."
   },
   {
     "id": 39,
-    "name": "Sunil KC",
-    "constituency": "Kathmandu 2",
-    "role": "RSP Candidate",
-    "highlight": "Defending the seat won by Sobita Gautam with a focus on urban-rural balanced development."
+    "name": "Bikram Thapa",
+    "constituency": "Kapilvastu 2",
+    "against": "To be decided by chair",
+    "role": "Youth Mobilizer",
+    "highlights": "Organizing youth networks to ensure the RSP’s message of good governance reaches every household."
   },
   {
     "id": 40,
-    "name": "Raju Pandey",
-    "constituency": "Kathmandu 3",
-    "role": "Former City Police Chief",
-    "highlight": "The 'Enforcer' of the Kathmandu clean-up movement, seeking to bring law to the legislature."
+    "name": "Prakash Rajouria",
+    "constituency": "Kapilvastu 3",
+    "against": "Birendra Kadauniya",
+    "role": "Rights Activist",
+    "highlights": "Committed to ensuring that public funds are used for infrastructure rather than political favors."
   },
   {
     "id": 41,
-    "name": "Pukar Bam",
-    "constituency": "Kathmandu 4",
-    "role": "Social Activist",
-    "highlight": "The face of the 'Inough is Enough' movement, challenging heavyweights for a people-centric system."
+    "name": "Balram Thapa",
+    "constituency": "Rolpa",
+    "against": "Gokul Gharti",
+    "role": "Change Agent",
+    "highlights": "Challenging the heartland of the old insurgency with a message of peace, progress, and democratic accountability."
   },
   {
     "id": 42,
-    "name": "Sasmit Pokharel",
-    "constituency": "Kathmandu 5",
-    "role": "RSP Candidate",
-    "highlight": "Representing the intellectual shift in Kathmandu-5 with a platform of digital literacy."
+    "name": "Sushant Baidik",
+    "constituency": "Pyuthan",
+    "against": "Surya Bahadur Thapa",
+    "role": "Environmentalist",
+    "highlights": "Promoting the RSP's green energy policies to preserve Pyuthan’s natural resources while fostering growth."
   },
   {
     "id": 43,
-    "name": "Shishir Khanal",
-    "constituency": "Kathmandu 6",
-    "role": "Former Education Minister",
-    "highlight": "The architect of modern educational policies seeking a second term to finalize school reforms."
+    "name": "Devaraj Pathak",
+    "constituency": "Dang 1",
+    "against": "To be decided by chair",
+    "role": "Advocate",
+    "highlights": "Ensuring legal justice for the marginalized and upholding the RSP's pledge for a fair judicial system."
   },
   {
     "id": 44,
-    "name": "Ganesh Parajuli",
-    "constituency": "Kathmandu 7",
-    "role": "Incumbent MP",
-    "highlight": "Protecting heritage and small entrepreneurs in the heart of old Kathmandu."
+    "name": "Bipin Acharya",
+    "constituency": "Dang 2",
+    "against": "To be decided by chair",
+    "role": "Media and Communication Expert",
+    "highlights": "RSP’s Joint General Secretary; bridging the gap between government and citizens through better communication."
   },
   {
     "id": 45,
-    "name": "Biraj Bhakta Shrestha",
-    "constituency": "Kathmandu 8",
-    "role": "Former Sports Minister",
-    "highlight": "The champion of heritage conservation and youth sports, defending his historic victory."
+    "name": "Kamal Subedi",
+    "constituency": "Dang 3",
+    "against": "Ghanshyam Pandey",
+    "role": "Business Strategist",
+    "highlights": "Focusing on commercializing agriculture to create a sustainable economy for Dang’s residents."
   },
   {
     "id": 46,
-    "name": "Dolprasad Aryal",
-    "constituency": "Kathmandu 9",
-    "role": "Vice Chairman",
-    "highlight": "The party's senior organizational voice, focusing on labor rights and migrant worker welfare."
+    "name": "Suresh Chaudhary",
+    "constituency": "Banke 1",
+    "against": "Surya Dhakal",
+    "role": "Tharu Community Representative",
+    "highlights": "Fighting for the representation and land rights of the Tharu people under the RSP’s inclusive agenda."
   },
   {
     "id": 47,
-    "name": "Pradeep Bista",
-    "constituency": "Kathmandu 10",
-    "role": "RSP Candidate",
-    "highlight": "Mobilizing the Kirtipur-Dakshinkali belt for a shift toward transparent local budgeting."
+    "name": "Bibek Shrestha",
+    "constituency": "Banke 2",
+    "against": "To be decided by chair",
+    "role": "Commerce Expert",
+    "highlights": "Promoting cross-border trade reforms to make Nepalgunj a hub for transparent business under the RSP."
   },
   {
     "id": 48,
-    "name": "Rukesh Ranjit",
-    "constituency": "Bhaktapur 1",
-    "role": "RSP Candidate",
-    "highlight": "Taking the 'Bell' to the fortress of the NWPP with a promise of modernized tradition."
+    "name": "Khagendra Sunar",
+    "constituency": "Banke 3",
+    "against": "Dal Bahadur Sunar",
+    "role": "Human Rights Defender",
+    "highlights": "Ringing the 'Ghanti' for social justice and the elimination of caste-based discrimination."
   },
   {
     "id": 49,
-    "name": "Rajiv Khatri",
-    "constituency": "Bhaktapur 2",
-    "role": "RSP Candidate",
-    "highlight": "Challenging political veterans with a focus on better transport and sewage for the city."
+    "name": "Thakur Singh Tharu",
+    "constituency": "Bardiya 1",
+    "against": "Salikram Adhikari",
+    "role": "Journalist / Activist",
+    "highlights": "Using his background in investigative media to expose local corruption and champion RSP's transparency."
   },
   {
     "id": 50,
-    "name": "Buddharatna Maharjan",
-    "constituency": "Lalitpur 1",
-    "role": "RSP Candidate",
-    "highlight": "Representing the rural-hilly voters of Lalitpur with a platform of local crop insurance."
+    "name": "Shridhar Pokharel",
+    "constituency": "Bardiya 2",
+    "against": "Bimala Bik",
+    "role": "Governance Analyst",
+    "highlights": "Dedicated to bringing professional management standards to the district's public health and irrigation projects."
   },
   {
     "id": 51,
-    "name": "Jagdish Kharel",
-    "constituency": "Lalitpur 2",
-    "role": "RSP Candidate",
-    "highlight": "Focusing on administrative reform and youth startup hubs in the Patan area."
+    "name": "Lalit Kumar Chand",
+    "constituency": "Salyan",
+    "against": "Gulab Jung Shah",
+    "role": "Grassroots Organizer",
+    "highlights": "Building the RSP's foundation in the mid-hills with a focus on self-reliant local economies."
   },
   {
     "id": 52,
-    "name": "Dr. Tosima Karki",
-    "constituency": "Lalitpur 3",
-    "role": "Incumbent MP",
-    "highlight": "The 'Doctor of the House' seeking to finish her mission for universal health insurance."
+    "name": "Dev Singh Aidi",
+    "constituency": "Dolpa",
+    "against": "Lank Rokaya",
+    "role": "Mountain Welfare Advocate",
+    "highlights": "Advocating for remote Dolpa’s connectivity and RSP’s plan for specialized mountain health services."
   },
   {
     "id": 53,
-    "name": "Sudan Gurung",
-    "constituency": "Gorkha 1",
-    "role": "Gen Z Leader",
-    "highlight": "The Hami Nepal founder bringing youth activism into the historic district of Gorkha."
+    "name": "Rajendra Bahadur Shahi",
+    "constituency": "Mugu",
+    "against": "Purna Bahadur Rokaya",
+    "role": "Logistics Professional",
+    "highlights": "Focusing on food security and infrastructure to ensure Mugu is no longer 'forgotten' by the center."
   },
   {
     "id": 54,
-    "name": "Kabindra Burlakoti",
-    "constituency": "Gorkha 2",
-    "role": "Joint General Secretary",
-    "highlight": "Challenging the political heavyweights in Gorkha with a platform of rural prosperity."
+    "name": "Binita Kathayat",
+    "constituency": "Jumla",
+    "against": "Shantilal Mahat",
+    "role": "Youth Parliamentarian",
+    "highlights": "A young, energetic voice from Karnali, bringing the region's struggles to the national level via RSP."
   },
   {
     "id": 55,
-    "name": "Dharma Raj KC",
-    "constituency": "Lamjung",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for fair hydropower compensation and better highway safety in Lamjung."
+    "name": "Prakash Neupane",
+    "constituency": "Kalikot",
+    "against": "Nagendra Shahi",
+    "role": "Development Campaigner",
+    "highlights": "Working to transform Kalikot through RSP’s focus on hydropower and sustainable hill farming."
   },
   {
     "id": 56,
-    "name": "Khadak Raj Paudel",
-    "constituency": "Kaski 1",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for tourism revenue transparency in the Lake City's eastern belt."
+    "name": "Tashi Lhazom",
+    "constituency": "Humla",
+    "against": "Dal Fadera",
+    "role": "Social Worker",
+    "highlights": "Ensuring the 'Ghanti' rings in the farthest corners of Nepal for better air connectivity and winter relief."
   },
   {
     "id": 57,
-    "name": "Uttam Paudel",
-    "constituency": "Kaski 2",
-    "role": "RSP Candidate",
-    "highlight": "Maintaining the RSP's momentum in the urban heart of Pokhara."
+    "name": "Raghav Karki",
+    "constituency": "Jajarkot",
+    "against": "Dammar Bahadur Singh",
+    "role": "Disaster Management Expert",
+    "highlights": "Leading the RSP’s focus on resilient housing and earthquake reconstruction in Jajarkot."
   },
   {
     "id": 58,
-    "name": "Bina Gurung",
-    "constituency": "Kaski 3",
-    "role": "RSP Candidate",
-    "highlight": "Empowering women and promoting sustainable mountain tourism in the Annapurna gateway."
+    "name": "N. K. Basnet",
+    "constituency": "Dailekh 1",
+    "against": "Rabindra Raj Sharma",
+    "role": "Civil Society Leader",
+    "highlights": "Advocating for the protection of petroleum resources and historical sites in Dailekh under RSP’s heritage wing."
   },
   {
     "id": 59,
-    "name": "Swarnim Wagle",
-    "constituency": "Tanahun 1",
-    "role": "Vice Chairman",
-    "highlight": "The global economist defending his seat and projecting the party's future fiscal policy."
+    "name": "Bakhat Bahadur Shahi",
+    "constituency": "Dailekh 2",
+    "against": "Laxmi Raj Sharma",
+    "role": "Local Development Expert",
+    "highlights": "Promoting agricultural cooperatives and fair pricing for farmers through the RSP framework."
   },
   {
     "id": 60,
-    "name": "Shriram Neupane",
-    "constituency": "Tanahun 2",
-    "role": "RSP Candidate",
-    "highlight": "Mobilizing the southern belt of Tanahun for administrative change and better farming."
+    "name": "Tek Bahadur Singh Thakuri",
+    "constituency": "Surkhet 1",
+    "against": "Dhurba Shahi",
+    "role": "Administrative Reformer",
+    "highlights": "Campaigning for a streamlined bureaucracy and easy access to citizenship and public documents."
   },
   {
     "id": 61,
-    "name": "Dhananjaya Regmi",
-    "constituency": "Syangja 1",
-    "role": "Tourism Expert",
-    "highlight": "Applying professional tourism management skills to the local economy of Syangja."
+    "name": "Ramesh Sapkota",
+    "constituency": "Surkhet 2",
+    "against": "Kulmani Devkota",
+    "role": "Community Educator",
+    "highlights": "Pushing for vocational training centers to align Surkhet’s youth with the modern job market."
   },
   {
     "id": 62,
-    "name": "Jhabilal Dumre",
-    "constituency": "Syangja 2",
-    "role": "RSP Candidate",
-    "highlight": "Challenging the 'Waling power center' with a grassroots accountability campaign."
+    "name": "Man Bahadur Shahi",
+    "constituency": "Western Rukum",
+    "against": "Nanda Ram Devkota",
+    "role": "Peace and Justice Advocate",
+    "highlights": "Offering a democratic alternative in a region long dominated by a single political ideology."
   },
   {
     "id": 63,
-    "name": "Rajan Gautam",
-    "constituency": "Nawalpur 1",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for the industrial and farming interests of the Narayani basin."
+    "name": "Hemraj Thapa",
+    "constituency": "Bajura",
+    "against": "Lal Bahadur Thapa",
+    "role": "Public Service Campaigner",
+    "highlights": "Ringing the 'Ghanti' for reliable healthcare and an end to malnutrition in the Bajura district."
   },
   {
     "id": 64,
-    "name": "Manish Khanal",
-    "constituency": "Nawalpur 2",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for tourism potential and land-right issues in the buffer zones."
+    "name": "Om Prakash Rawal",
+    "constituency": "Achham 1",
+    "against": "Jhapat Bahadur Bohara",
+    "role": "Social Activist",
+    "highlights": "Challenging social malpractices and promoting RSP's progressive social welfare policies."
   },
   {
     "id": 65,
-    "name": "Sushil Khadka",
-    "constituency": "Baglung 1",
-    "role": "RSP Candidate",
-    "highlight": "Leading the 'Bell' wave in the hills of Baglung with a focus on digital access."
+    "name": "Bhupdev Shah",
+    "constituency": "Achham 2",
+    "against": "Yagya Bogati",
+    "role": "Education Advocate",
+    "highlights": "Promoting the RSP's 'Education for All' initiative to increase literacy in Achham."
   },
   {
     "id": 66,
-    "name": "Som Sharma",
-    "constituency": "Baglung 2",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for rural road safety and better healthcare in western Baglung."
+    "name": "Shailesh Kumar Singh",
+    "constituency": "Bajhang",
+    "against": "Afilal Okheda",
+    "role": "Geologist / Resource Planner",
+    "highlights": "Expertly managing Bajhang's mineral resources for the benefit of the local community."
   },
   {
     "id": 67,
-    "name": "Sagar Bhusal",
-    "constituency": "Parbat",
-    "role": "RSP Candidate",
-    "highlight": "A young voice for Parbat, focusing on sustainable suspension bridges and heritage."
+    "name": "Narendra Bahadur Khadka",
+    "constituency": "Doti",
+    "against": "Deepak Dhami",
+    "role": "Community Leader",
+    "highlights": "Focusing on local tourism development as a driver for Doti’s prosperity under RSP."
   },
   {
     "id": 68,
-    "name": "Yubaraj Roka",
-    "constituency": "Myagdi",
-    "role": "RSP Candidate",
-    "highlight": "Focusing on hydropower royalties and high-altitude health centers."
+    "name": "Komal Gyawali",
+    "constituency": "Kailali 1",
+    "against": "Dwarika Nyaupane",
+    "role": "Entrepreneur",
+    "highlights": "Advocating for women-led businesses and RSP’s micro-finance reforms."
   },
   {
     "id": 69,
-    "name": "Aditya Thakali",
-    "constituency": "Mustang",
-    "role": "RSP Candidate",
-    "highlight": "The voice of the high mountains, focusing on climate change and border trade."
+    "name": "K. P. Khanal",
+    "constituency": "Kailali 2",
+    "against": "Surya Bahadur Thapa",
+    "role": "Youth Icon / Social Activist",
+    "highlights": "Known for his nationwide cleaning campaigns, bringing the same 'clean politics' mission to the RSP."
   },
   {
     "id": 70,
-    "name": "Sagar Dhakal",
-    "constituency": "Gulmi 1",
-    "role": "Youth Leader",
-    "highlight": "The 'Oxford-returned' activist in a high-stakes rematch to end veteran politics."
+    "name": "Jagat Prasad Joshi",
+    "constituency": "Kailali 3",
+    "against": "Gaurishankar Chaudhary",
+    "role": "Inclusion Expert",
+    "highlights": "Bridging ethnic divides in Kailali through RSP's policy of unity and shared prosperity."
   },
   {
     "id": 71,
-    "name": "Gobinda Panthi",
-    "constituency": "Gulmi 2",
-    "role": "RSP Candidate",
-    "highlight": "Challenging the old guard with a promise of data-driven local development."
+    "name": "Khemraj Koirala",
+    "constituency": "Kailali 4",
+    "against": "Lekhraj Bhatt",
+    "role": "Administrative Expert",
+    "highlights": "Ringing the 'Ghanti' for digital government services to eliminate middlemen and bribery."
   },
   {
     "id": 72,
-    "name": "Bimal Pant",
-    "constituency": "Palpa 1",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for coffee production and heritage tourism in the Palpa hills."
+    "name": "Anand Chand",
+    "constituency": "Kailali 5",
+    "against": "Yagya Raj Dhungana",
+    "role": "Business Leader",
+    "highlights": "Promoting the RSP's plan to make Dhangadhi a trade gateway to West Nepal."
   },
   {
     "id": 73,
-    "name": "Madhav Thapa",
-    "constituency": "Palpa 2",
-    "role": "RSP Candidate",
-    "highlight": "A local advocate for administrative reform in the Tansen-Butwal corridor."
+    "name": "Rajesh Singh Samant",
+    "constituency": "Darchula",
+    "against": "Ganesh Singh Thagunna",
+    "role": "Border Rights Advocate",
+    "highlights": "Defending national sovereignty and local border community rights through RSP's foreign policy wing."
   },
   {
     "id": 74,
-    "name": "Hari Prasad Bhusal",
-    "constituency": "Arghakhanchi",
-    "role": "RSP Candidate",
-    "highlight": "Unifying the youth of Arghakhanchi for a shift toward transparent governance."
+    "name": "Harimohan Bhandari",
+    "constituency": "Baitadi",
+    "against": "Damodar Bhandari",
+    "role": "Legal Activist",
+    "highlights": "Working to ensure that Baitadi’s infrastructure projects are completed on time and without corruption."
   },
   {
     "id": 75,
-    "name": "Bikram Khanal",
-    "constituency": "Nawalparasi East-1",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for industrial labor rights and sustainable urban growth."
+    "name": "Dr. Tara Joshi",
+    "constituency": "Dadeldhura",
+    "against": "Chakra Snehi",
+    "role": "PhD Scholar / Former Provincial Member",
+    "highlights": "An academic heavyweight resigned from the Provincial Assembly to join RSP and challenge the Dadeldhura status quo."
   },
   {
     "id": 76,
-    "name": "Narendra Kumar Gupta",
-    "constituency": "Nawalparasi East-2",
-    "role": "RSP Candidate",
-    "highlight": "A professional face advocating for agrarian reform in the Lumbini plains."
+    "name": "Janak Singh Dhami",
+    "constituency": "Kanchanpur 1",
+    "against": "Kamala Bohara",
+    "role": "Advocate for Migrants",
+    "highlights": "Focusing on the RSP’s agenda for safe labor migration and the welfare of returnee migrants."
   },
   {
     "id": 77,
-    "name": "Sunil Lamsal",
-    "constituency": "Rupandehi 1",
-    "role": "Tech Policy Expert",
-    "highlight": "A key aide to Balen Shah, bringing the 'Kathmandu Model' to the Rupandehi plains."
+    "name": "Dipak Bohara",
+    "constituency": "Kanchanpur 2",
+    "against": "Bachan Bahadur Singh",
+    "role": "Youth Activist",
+    "highlights": "Energizing the 'Ghanti' movement in Kanchanpur to promote sports and youth leadership."
   },
   {
     "id": 78,
-    "name": "Sulabh Kharel",
-    "constituency": "Rupandehi 2",
-    "role": "RSP Candidate",
-    "highlight": "Challenging heavyweights in the heart of Butwal with a focus on business ease."
+    "name": "Gyanendra Mahatara",
+    "constituency": "Kanchanpur 3",
+    "against": "Deepak Bhatt",
+    "role": "Community Representative",
+    "highlights": "Advocating for the rights of freed Haliya and landless citizens through the RSP platform."
   },
   {
     "id": 79,
-    "name": "Lekh Jung Thapa",
-    "constituency": "Rupandehi 3",
-    "role": "Medical Specialist",
-    "highlight": "A prominent doctor aiming to transform Bhairahawa into a healthcare hub."
-  },
-  {
-    "id": 80,
-    "name": "Kanya Banaya",
-    "constituency": "Rupandehi 4",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for social justice and female literacy in the southern border belt."
-  },
-  {
-    "id": 81,
-    "name": "Tafiq Ahmad Khan",
-    "constituency": "Rupandehi 5",
-    "role": "RSP Candidate",
-    "highlight": "Representing communal harmony and the economic rights of local farmers."
-  },
-  {
-    "id": 82,
-    "name": "Mohan Acharya",
-    "constituency": "Kapilvastu-1",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for the development of heritage sites and better irrigation."
+    "name": "Hari Dhakal",
+    "constituency": "Chitwan 1",
+    "role": "Incumbent Member of Parliament",
+    "against": "Kamal Pathak (UML)",
+    "highlights": "The voice of the stock market and youth employment; seeking to defend his 2022 landslide victory."
   },
   {
     "id": 83,
-    "name": "Bikram Thapa",
-    "constituency": "Kapilvastu-2",
-    "role": "RSP Candidate",
-    "highlight": "Challenging traditional power blocks with a focus on administrative accountability."
+    "name": "Sangeeta Thakali",
+    "constituency": "Mustang 1",
+    "against": "Yogesh Gauchan Thakali (NC)",
+    "role": "Tourism Professional",
+    "highlights": "Representing the RSP in the Himalayas with a focus on cross-border trade and mountain welfare."
   },
   {
     "id": 84,
-    "name": "Prakash Rajouria",
-    "constituency": "Kapilvastu-3",
-    "role": "RSP Candidate",
-    "highlight": "Mobilizing the youth for a new Kapilvastu free from caste-based politics."
+    "name": "Hari Prasad Acharya",
+    "constituency": "Myagdi 1",
+    "against": "Kham Bahadur Garbuja (NC)",
+    "role": "Agriculture Advocate",
+    "highlights": "Campaigning for decentralized infrastructure and local resource management in the hills."
   },
   {
     "id": 85,
-    "name": "Lakhan Thapa",
-    "constituency": "Eastern Rukum",
-    "role": "RSP Candidate",
-    "highlight": "Taking the 'Bell' to the mountains with a focus on rural self-sufficiency."
+    "name": "Jalpa Kumari Sharma",
+    "constituency": "Parbat 1",
+    "against": "Arjun Joshi (NC)",
+    "role": "Social Activist",
+    "highlights": "A key female voice for RSP in Gandaki, focusing on women's health and cooperative reform."
   },
   {
     "id": 86,
-    "name": "Balram Thapa",
-    "constituency": "Rolpa",
-    "role": "RSP Candidate",
-    "highlight": "Challenging the 'red fortress' with a promise of peace and infrastructure."
+    "name": "Buddi Kumari Rana",
+    "constituency": "Syangja 1",
+    "against": "Bharat Dhakal (NC)",
+    "role": "Grassroots Leader",
+    "highlights": "Focusing on rural electrification and the 'Ghanti' movement in the Syangja hills."
   },
   {
     "id": 87,
-    "name": "Sushant Baidik",
-    "constituency": "Pyuthan",
-    "role": "RSP Candidate",
-    "highlight": "A young intellectual focusing on digital education and hilly roads."
+    "name": "Tikaram Gurung",
+    "constituency": "Syangja 2",
+    "against": "Dhanraj Gurung (NC)",
+    "role": "Community Liaison",
+    "highlights": "Challenging the Congress stronghold with a platform of transparency and fiscal accountability."
   },
   {
     "id": 88,
-    "name": "Devaraj Pathak",
-    "constituency": "Dang-1",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for the rights of the Tharu community and better local healthcare."
+    "name": "Sumit Acharya",
+    "constituency": "Gulmi 2",
+    "against": "Gokarna Bista (UML)",
+    "role": "Tech Professional",
+    "highlights": "Aims to digitize local governance services to reduce administrative corruption."
   },
   {
     "id": 89,
-    "name": "Bipin Acharya",
-    "constituency": "Dang-2",
-    "role": "RSP Candidate",
-    "highlight": "Challenging central-level leaders in Dang with a grassroots change narrative."
+    "name": "Yubraj Safal",
+    "constituency": "Palpa 1",
+    "against": "Narayan Acharya (UML)",
+    "role": "Civic Activist",
+    "highlights": "Promoting zero tolerance for corruption in district-level development projects."
   },
   {
     "id": 90,
-    "name": "Kamal Subedi",
-    "constituency": "Dang-3",
-    "role": "RSP Candidate",
-    "highlight": "Focusing on urban planning for Tulsipur and sustainable farming in the valleys."
+    "name": "Som Prasad Pandey",
+    "constituency": "Palpa 2",
+    "against": "Thakur Gaire (UML)",
+    "role": "Development Expert",
+    "highlights": "Focusing on Palpa's industrial potential and youth migration prevention."
   },
   {
     "id": 91,
-    "name": "Suresh Chaudhary",
-    "constituency": "Banke-1",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for the rights of industrial workers and Tharu farmers in Banke."
-  },
-  {
-    "id": 92,
-    "name": "Bibek Shrestha",
-    "constituency": "Banke-2",
-    "role": "RSP Candidate",
-    "highlight": "Mobilizing Nepalgunj for better trade policies and urban infrastructure."
-  },
-  {
-    "id": 93,
-    "name": "Khagendra Sunar",
-    "constituency": "Banke-3",
-    "role": "Social Activist",
-    "highlight": "A vocal advocate for the Dalit community and social justice in the Mid-West."
-  },
-  {
-    "id": 94,
-    "name": "Thakur Singh Tharu",
-    "constituency": "Bardiya-1",
-    "role": "RSP Candidate",
-    "highlight": "Championing wildlife-safe farming and the rights of Bardiya's indigenous people."
-  },
-  {
-    "id": 95,
-    "name": "Shridhar Pokharel",
-    "constituency": "Bardiya-2",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for better irrigation and a corruption-free Bardiya."
-  },
-  {
-    "id": 96,
-    "name": "Lalit Kumar Chand",
-    "constituency": "Salyan",
-    "role": "RSP Candidate",
-    "highlight": "Connecting the remote corners of Salyan with a focus on herb-based industries."
+    "name": "Ganesh Paudel",
+    "constituency": "Rupandehi 1",
+    "against": "Chhabilal Bishwakarma (UML)",
+    "role": "Professional Advocate",
+    "highlights": "Bringing the RSP's legal and administrative reform agenda to the Lumbini plains."
   },
   {
     "id": 97,
-    "name": "Dev Singh Aidi",
-    "constituency": "Dolpa",
-    "role": "RSP Candidate",
-    "highlight": "A mountain leader focusing on tourism potential and food security in Dolpa."
+    "name": "Vishnu Prasad Sharma",
+    "constituency": "Dang 2",
+    "against": "Shankar Pokharel (UML)",
+    "role": "Strategic Leader",
+    "highlights": "A high-stakes nomination to challenge the central leadership of the CPN-UML."
   },
   {
     "id": 98,
-    "name": "Rajendra Bahadur Shahi",
-    "constituency": "Mugu",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for the Rara-region's tourism and better school access for Mugu children."
-  },
-  {
-    "id": 99,
-    "name": "Binita Kathayat",
-    "constituency": "Jumla",
-    "role": "Incumbent MP",
-    "highlight": "Defending her role as the youngest voice for the Karnali, focusing on apples and infra."
-  },
-  {
-    "id": 100,
-    "name": "Prakash Neupane",
-    "constituency": "Kalikot",
-    "role": "RSP Candidate",
-    "highlight": "Challenging the status quo in Kalikot with a focus on reliable Karnali Highway safety."
-  },
-  {
-    "id": 101,
-    "name": "Tashi Lhazom",
-    "constituency": "Humla",
-    "role": "RSP Candidate",
-    "highlight": "A pioneering female leader from the high mountains fighting for internet and health."
+    "name": "Shanti Maya Rimal",
+    "constituency": "Banke 2",
+    "against": "Dhawal Shamsher Rana (RPP)",
+    "role": "Inclusion Advocate",
+    "highlights": "Focusing on urban development and social harmony in the Nepalgunj corridor."
   },
   {
     "id": 102,
-    "name": "Raghav Karki",
-    "constituency": "Jajarkot",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for better earthquake reconstruction and rural roads in Jajarkot."
+    "name": "Sushant Baidik",
+    "constituency": "Pyuthan",
+    "against": "Dr. Govindraj Pokhrel (NC)",
+    "role": "Environmentalist",
+    "highlights": "Advocating for green energy and the protection of Pyuthan’s natural watershed."
   },
   {
     "id": 103,
-    "name": "N. K. Basnet",
-    "constituency": "Dailekh-1",
-    "role": "RSP Candidate",
-    "highlight": "Mobilizing Dailekh for petroleum explorations and heritage preservation."
+    "name": "Balram Thapa",
+    "constituency": "Rolpa",
+    "against": "Dr. Sudankumar Oli (NC)",
+    "role": "Change Agent",
+    "highlights": "Challenging the old guard in Rolpa with a platform of democratic accountability."
   },
   {
     "id": 104,
-    "name": "Bakhat Bahadur Shahi",
-    "constituency": "Dailekh-2",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for better health centers and irrigation in western Dailekh."
+    "name": "Man Bahadur Shahi",
+    "constituency": "Western Rukum",
+    "against": "Kusum Thapa Magar (NC)",
+    "role": "Social Justice Advocate",
+    "highlights": "Focusing on inclusive governance and equitable infrastructure for the Rukum valley."
   },
   {
     "id": 105,
-    "name": "Tek Bahadur Singh Thakuri",
-    "constituency": "Surkhet-1",
-    "role": "RSP Candidate",
-    "highlight": "A local voice for the provincial capital's outskirts, focusing on administrative ease."
+    "name": "Devaraj Pathak",
+    "constituency": "Dang 1",
+    "against": "Yogendra Chaudhary (NC)",
+    "role": "Legal Advocate",
+    "highlights": "Pushing for judicial reforms and legal aid access for rural farmers."
   },
   {
     "id": 106,
-    "name": "Ramesh Sapkota",
-    "constituency": "Surkhet-2",
-    "role": "RSP Candidate",
-    "highlight": "Challenging established leaders in Surkhet with a youth-led development agenda."
+    "name": "Kamal Subedi",
+    "constituency": "Dang 3",
+    "against": "Dipak Giri (NC)",
+    "role": "Business Strategist",
+    "highlights": "Developing plans for Dang as an industrial hub for Western Nepal."
   },
   {
     "id": 107,
-    "name": "Man Bahadur Shahi",
-    "constituency": "Western Rukum",
-    "role": "RSP Candidate",
-    "highlight": "Bringing the 'Bell' to the Maoist heartland with a focus on individual freedoms."
+    "name": "Suresh Chaudhary",
+    "constituency": "Banke 1",
+    "against": "Surya Dhakal (UML)",
+    "role": "Tharu Community Leader",
+    "highlights": "Championing the rights and representation of the Tharu people in parliament."
   },
   {
     "id": 108,
-    "name": "Hemraj Thapa",
-    "constituency": "Bajura",
-    "role": "Independent Activist",
-    "highlight": "The fierce face of youth activism, challenging muscle-politics in the mountains of Bajura."
+    "name": "Bibek Shrestha",
+    "constituency": "Banke 2",
+    "against": "Dhawal Shamsher Rana (RPP)",
+    "role": "Commerce Expert",
+    "highlights": "Focused on cross-border trade optimization and Nepalgunj's urban renewal."
   },
   {
     "id": 109,
-    "name": "Om Prakash Rawal",
-    "constituency": "Achham-1",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for better health services and an end to the Chhaupadi system."
+    "name": "Khagendra Sunar",
+    "constituency": "Banke 3",
+    "against": "Kishore Singh Rathore (NC)",
+    "role": "Human Rights Defender",
+    "highlights": "Ringing the 'Ghanti' for social equality and anti-discrimination policies."
   },
   {
     "id": 110,
-    "name": "Bhupdev Shah",
-    "constituency": "Achham-2",
-    "role": "Co-General Secretary",
-    "highlight": "The former secretary to Balen Shah, aiming to end the 'legacy of neglect' in his home district."
+    "name": "Thakur Singh Tharu",
+    "constituency": "Bardiya 1",
+    "against": "Sanjay Gautam (NC)",
+    "role": "Investigative Journalist",
+    "highlights": "Using media-tech to track and expose local government budget leaks."
   },
   {
     "id": 111,
-    "name": "Shailesh Kumar Singh",
-    "constituency": "Bajhang",
-    "role": "RSP Candidate",
-    "highlight": "Focused on disaster-resilient infrastructure and the rights of mountain farmers."
+    "name": "Shridhar Pokharel",
+    "constituency": "Bardiya 2",
+    "against": "Bimala Bik (NCP)",
+    "role": "Governance Analyst",
+    "highlights": "Focusing on irrigation projects and agricultural modernization in Bardiya."
   },
   {
     "id": 112,
-    "name": "Narendra Bahadur Khadka",
-    "constituency": "Doti",
-    "role": "RSP Candidate",
-    "highlight": "Leading the shift toward transparent governance in the heart of Sudurpaschim."
+    "name": "Lalit Kumar Chand",
+    "constituency": "Salyan",
+    "against": "Keshav Bista (NC)",
+    "role": "Grassroots Organizer",
+    "highlights": "Building RSP’s organizational network in the Salyan hills."
   },
   {
     "id": 113,
-    "name": "Komal Gyawali",
-    "constituency": "Kailali-1",
-    "role": "RSP Candidate",
-    "highlight": "Challenging the stronghold of Tikapur with a platform of communal harmony."
+    "name": "Dev Singh Aidi",
+    "constituency": "Dolpa",
+    "against": "Karnabahadur Shahi (NC)",
+    "role": "Mountain Welfare Advocate",
+    "highlights": "Ensuring Dolpa's remote villages are connected via satellite health services."
   },
   {
     "id": 114,
-    "name": "K. P. Khanal",
-    "constituency": "Kailali-2",
-    "role": "Social Activist",
-    "highlight": "The youngest activist in the race, focusing on sanitation and youth participation."
+    "name": "Rajendra Bahadur Shahi",
+    "constituency": "Mugu",
+    "against": "Ainbahadur Shahi (NC)",
+    "role": "Logistics Professional",
+    "highlights": "Addressing food security and winter supply chain issues in Mugu."
   },
   {
     "id": 115,
-    "name": "Jagat Prasad Joshi",
-    "constituency": "Kailali-3",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for better irrigation and agricultural subsidies in the Kailali plains."
+    "name": "Binita Kathayat",
+    "constituency": "Jumla",
+    "against": "Deepbahadur Shahi (NC)",
+    "role": "Youth Parliamentarian",
+    "highlights": "The voice of Karnali’s youth, advocating for high-altitude sports and tourism."
   },
   {
     "id": 116,
-    "name": "Khemraj Koirala",
-    "constituency": "Kailali-4",
-    "role": "RSP Candidate",
-    "highlight": "Challenging established veterans with a platform of urban reform in Godawari."
+    "name": "Prakash Neupane",
+    "constituency": "Kalikot",
+    "against": "Nagendra Shahi (UML)",
+    "role": "Development Campaigner",
+    "highlights": "Focused on the Karnali Highway safety and infrastructure upgrades."
   },
   {
     "id": 117,
-    "name": "Anand Chand",
-    "constituency": "Kailali-5",
-    "role": "Academic",
-    "highlight": "The intellectual face of the RSP in Dhangadhi, focusing on its growth as a provincial hub."
+    "name": "Tashi Lhazom",
+    "constituency": "Humla",
+    "against": "Jayapati Rokaya (NC)",
+    "role": "Social Worker",
+    "highlights": "Pioneering the 'Education in the Clouds' initiative for Humla's students."
   },
   {
     "id": 118,
-    "name": "Rajesh Singh Samant",
-    "constituency": "Darchula",
-    "role": "RSP Candidate",
-    "highlight": "The voice of the borderland, focusing on sovereignty and high-altitude roads."
+    "name": "Raghav Karki",
+    "constituency": "Jajarkot",
+    "against": "Dammar Bahadur Singh (UML)",
+    "role": "Disaster Relief Expert",
+    "highlights": "Leading the housing reconstruction monitoring for earthquake-hit areas."
   },
   {
     "id": 119,
-    "name": "Harimohan Bhandari",
-    "constituency": "Baitadi",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for better health centers and technical education in the hills."
+    "name": "N. K. Basnet",
+    "constituency": "Dailekh 1",
+    "against": "Dikpal Shahi (NC)",
+    "role": "Civil Society Leader",
+    "highlights": "Protecting the cultural heritage and petroleum prospects of Dailekh."
   },
   {
     "id": 120,
-    "name": "Dr. Tara Joshi",
-    "constituency": "Dadeldhura",
-    "role": "Independent / RSP Supporter",
-    "highlight": "The local doctor who has long challenged the establishment, now backed by the youth wave."
+    "name": "Bakhat Bahadur Shahi",
+    "constituency": "Dailekh 2",
+    "against": "Basana Thapa (NC)",
+    "role": "Local Expert",
+    "highlights": "Promoting sustainable dairy farming and agricultural cooperatives."
   },
   {
     "id": 121,
-    "name": "Janak Singh Dhami",
-    "constituency": "Kanchanpur-1",
-    "role": "RSP Candidate",
-    "highlight": "Fighting for the rights of border communities and landless settlers."
+    "name": "Tek Bahadur Singh Thakuri",
+    "constituency": "Surkhet 1",
+    "against": "Purna Bahadur Khadka (NC)",
+    "role": "Administrative Reformer",
+    "highlights": "Challenging the NC's central leadership with a push for e-governance."
   },
   {
     "id": 122,
-    "name": "Dipak Bohara",
-    "constituency": "Kanchanpur-2",
-    "role": "RSP Candidate",
-    "highlight": "Representing the urban and industrial interests of the western border town."
+    "name": "Ramesh Sapkota",
+    "constituency": "Surkhet 2",
+    "against": "Narayan Koirala (NC)",
+    "role": "Vocational Educator",
+    "highlights": "Developing Surkhet as the educational hub of the Karnali Province."
   },
   {
-    "id": 123,
-    "name": "Gyanendra Mahatara",
-    "constituency": "Kanchanpur-3",
-    "role": "RSP Candidate",
-    "highlight": "Mobilizing the youth for better trade infrastructure and academic reform."
+    "id": 124,
+    "name": "Om Prakash Rawal",
+    "constituency": "Achham 1",
+    "against": "Bharat Swar (NC)",
+    "role": "Civic Rights Activist",
+    "highlights": "Promoting zero tolerance for corruption in Achham's road projects."
+  },
+  {
+    "id": 125,
+    "name": "Shailesh Kumar Singh",
+    "constituency": "Bajhang",
+    "against": "Afilal Okheda (UML)",
+    "role": "Geologist",
+    "highlights": "Managing Bajhang’s herbs and mineral wealth for local prosperity."
   },
   {
     "id": 126,
-    "name": "Rohit Thapa",
-    "constituency": "Kanchanpur-3",
-    "role": "RSP Candidate",
-    "highlight": "Mobilizing the youth for better trade infrastructure and academic reform."
-  },
-  {
-    "id": 127,
-    "name": "Rajesh Chaudhary",
-    "constituency": "Rautahat 1",
-    "role": "RSP Candidate",
-    "highlight": "Challenging the 'Fortress of Gaur' with a promise of transparent leadership."
-  },
-  {
-    "id": 128,
-    "name": "Sheikh Sagir",
-    "constituency": "Rautahat 2",
-    "role": "RSP Candidate",
-    "highlight": "Advocating for communal harmony and youth employment in Rautahat."
-  },
-  {
-    "id": 129,
-    "name": "Dhiraj Patel",
-    "constituency": "Rautahat 3",
-    "role": "RSP Candidate",
-    "highlight": "A new-age activist focused on digital literacy in the Madhesh heartland."
-  },
-  {
-    "id": 130,
-    "name": "Ganesh Paudel",
-    "constituency": "Rautahat 4",
-    "role": "RSP Candidate",
-    "highlight": "Challenging the traditional party dominance in northern Rautahat."
+    "name": "Narendra Bahadur Khadka",
+    "constituency": "Doti",
+    "against": "Bharat Khadka (NC)",
+    "role": "Community Leader",
+    "highlights": "Advocating for the Doti-Kailali fast-track connectivity project."
   },
   {
     "id": 131,
-    "name": "Prakash Pathak",
-    "constituency": "Jhapa 3",
-    "role": "District President",
-    "highlight": "Taking on political heavyweights in a high-stakes battle for the heart of Jhapa."
+    "name": "Rajesh Singh Samant",
+    "constituency": "Darchula",
+    "against": "Dharma Nanda Joshi (NC)",
+    "role": "Sovereignty Advocate",
+    "highlights": "Championing the infrastructure development of the Lipulekh corridor."
+  },
+  {
+    "id": 132,
+    "name": "Harimohan Bhandari",
+    "constituency": "Baitadi",
+    "against": "Chaturbahadur Chand (NC)",
+    "role": "Legal Activist",
+    "highlights": "Fighting for the timely completion of Pancheshwar and local bridges."
+  },
+  {
+    "id": 133,
+    "name": "Dr. Tara Joshi",
+    "constituency": "Dadeldhura",
+    "against": "Sagar Pariyar (Independent)",
+    "role": "PhD Scholar",
+    "highlights": "Leading the charge in Dadeldhura with an academic and policy-focused approach."
+  },
+  {
+    "id": 142,
+    "name": "Sudhan Gurung",
+    "constituency": "Gorkha 1",
+    "against": "Prem Khatri (NC)",
+    "role": "Gen Z Representative",
+    "highlights": "Leading the youthful revolution in the historic Gorkha district."
+  },
+  {
+    "id": 143,
+    "name": "Bhupdev Shah",
+    "constituency": "Achham 2",
+    "against": "Pushpa Bahadur Shah (NC)",
+    "role": "Co-General Secretary",
+    "highlights": "Former secretary to Balen Shah; campaigning to bring Kathmandu's 'structural model' to Achham's development."
+  },
+  {
+    "id": 144,
+    "name": "Manish Jha",
+    "constituency": "Dhanusha 3",
+    "against": "Bimalendra Nidhi (NC)",
+    "role": "Party Spokesperson",
+    "highlights": "Challenging the old guard in Madhesh; focusing on institutionalizing inclusive provincial governance."
+  },
+  {
+    "id": 145,
+    "name": "Amresh Kumar Singh",
+    "constituency": "Sarlahi 4",
+    "against": "Gagan Thapa (NC)",
+    "role": "Veteran Politician / Recent RSP Joiner",
+    "highlights": "A massive face-off against the NC President; running on a platform of anti-corruption and border-region rights."
+  },
+  {
+    "id": 146,
+    "name": "Bablu Gupta",
+    "constituency": "Siraha 1",
+    "against": "Padam Giri (UML)",
+    "role": "Former Minister",
+    "highlights": "Resigned from the cabinet to contest; focused on sports infrastructure and youth-led agrarian reform."
+  },
+ {
+    "id": 148,
+    "name": "Shriram Neupane",
+    "constituency": "Tanahun 2",
+    "against": "Shankar Bhandari (NC) / Kiran Gurung (UML)",
+    "role": "Social Activist / New Entrant",
+    "highlights": "Advocating for rural infrastructure development and agricultural modernization in the Shuklagandaki and Bhimad belts."
+  },
+  {
+    "id": 149,
+    "name": "Sabin Jignasu",
+    "constituency": "Lumbini 2",
+    "against": "To be decided by chair",
+    "role": "Policy Analyst",
+    "highlights": "Working on RSP’s 'Smart Village' initiative for the central Terai belt."
+  },
+  {
+    "id": 152,
+    "name": "Rameshwor Singh",
+    "constituency": "Mahottari 3",
+    "against": "Mahantha Thakur (LSP)",
+    "role": "Civic Leader",
+    "highlights": "Representing the RSP's 'New Madhesh' agenda to replace old-school identity politics."
+  },
+  {
+    "id": 153,
+    "name": "Bikas Shah",
+    "constituency": "Bara 2",
+    "against": "Upendra Yadav (JSP)",
+    "role": "Youth Mobilizer",
+    "highlights": "Challenging regionalist leaders with a focus on national integration and local jobs."
+  },
+  {
+    "id": 154,
+    "name": "Dinesh Koirala",
+    "constituency": "Chitwan 3",
+    "against": "Renu Dahal (NCP)",
+    "role": "Local Strongman",
+    "highlights": "Collaborating with RSP's broader Bharatpur strategy to reform municipal governance."
+  },
+  {
+    "id": 155,
+    "name": "Prakash Thagunna",
+    "constituency": "Darchula 1",
+    "against": "Ganesh Thagunna (UML)",
+    "role": "Border Rights Advocate",
+    "highlights": "Championing the cause of border-region connectivity and security."
+  },
+  {
+    "id": 156,
+    "name": "Kiran Hamal",
+    "constituency": "Dailekh 1",
+    "against": "To be decided by chair",
+    "role": "Development Professional",
+    "highlights": "Focusing on sustainable water management and hill-district irrigation."
+  },
+  {
+    "id": 157,
+    "name": "Maya Devi Pant",
+    "constituency": "Surkhet 2",
+    "against": "Hridayram Thani (NC)",
+    "role": "Educationist",
+    "highlights": "Focusing on education quality and women's participation in Karnali province."
+  },
+  {
+    "id": 158,
+    "name": "Khadga Bahadur Shahi",
+    "constituency": "Mugu 1",
+    "against": "To be decided by chair",
+    "role": "Mountain Welfare Advocate",
+    "highlights": "Fighting for food security and reliable road access in Mugu."
+  },
+  {
+    "id": 159,
+    "name": "Shiva Pariyar",
+    "constituency": "Banke 2",
+    "against": "To be decided by chair",
+    "role": "Artist / Activist",
+    "highlights": "Leveraging cultural influence to promote RSP's anti-discrimination agenda."
+  },
+  {
+    "id": 160,
+    "name": "Lila Bahadur Bhandari",
+    "constituency": "Baitadi 1",
+    "against": "Damodar Bhandari (UML)",
+    "role": "Legal Professional",
+    "highlights": "Promoting the rule of law and transparency in local project contracting."
+  },
+  {
+    "id": 161,
+    "name": "Sita Ram Tharu",
+    "constituency": "Bardiya 2",
+    "against": "To be decided by chair",
+    "role": "Community Coordinator",
+    "highlights": "Focusing on the land rights of the landless and marginalized communities."
+  },
+  {
+    "id": 163,
+    "name": "Nitesh Kumar Jha",
+    "constituency": "Parsa 1",
+    "against": "Pradeep Yadav (UML)",
+    "role": "Commerce Expert",
+    "highlights": "Aims to make Birgunj a transparent economic gateway for Nepal."
+  },
+  {
+    "id": 165,
+    "name": "Sunil KC",
+    "constituency": "Kathmandu 2",
+    "against": "Madhav Kumar Nepal (NCP) / Mani Ram Phuyal (UML)",
+    "role": "Social Activist",
+    "highlights": "Advocating for sustainable urban agriculture and youth-led local governance in the capital's eastern belt."
+  },
+  {
+    "id": 166,
+    "name": "Raju Pandey",
+    "constituency": "Kathmandu 3",
+    "against": "Kulman Ghising (Ujyaalo Nepal Party) / Santosh Chalise (NC)",
+    "role": "Former City Police Chief",
+    "highlights": "Running a high-profile campaign focused on 'System Correction' and public space management."
+  },
+  {
+    "id": 167,
+    "name": "Pukar Bam",
+    "constituency": "Kathmandu 4",
+    "against": "Rajan Bhattarai (UML) / NC Proxy Candidate",
+    "role": "Civic Activist",
+    "highlights": "A veteran of the 'Enough is Enough' movement, focusing on accountability and the 'Right to Reject' policy."
+  },
+  {
+    "id": 168,
+    "name": "Sasmita Pokharel",
+    "constituency": "Kathmandu 5",
+    "against": "Pradeep Paudel (NC) / Ishwar Pokharel (UML)",
+    "role": "Media Professional",
+    "highlights": "Challenging two heavyweight General Secretaries with a focus on heritage conservation and digital education."
+  },
+  {
+    "id": 169,
+    "name": "Shishir Khanal",
+    "constituency": "Kathmandu 6",
+    "against": "Sabuj Baniya (NC) / Yogesh Bhattarai (UML)",
+    "role": "Former Education Minister",
+    "highlights": "Seeking re-election on his track record of public school reform and policy-driven leadership."
+  },
+  {
+    "id": 170,
+    "name": "Ganesh Parajuli",
+    "constituency": "Kathmandu 7",
+    "against": "Ram Bir Manandhar (Independent/UML) / Manushi Yami Bhattarai (NCP)",
+    "role": "Entrepreneur",
+    "highlights": "Focusing on small business support and decentralizing administrative services in Kathmandu North."
+  },
+  {
+    "id": 171,
+    "name": "Biraj Bhakta Shrestha",
+    "constituency": "Kathmandu 8",
+    "against": "Jeevan Ram Shrestha (NCP) / Umesh Sthapit (RPP)",
+    "role": "Former Minister for Youth & Sports",
+    "highlights": "Defending his seat with a platform of cultural heritage protection and the 'New Kathmandu' blueprint."
+  },
+  {
+    "id": 172,
+    "name": "Dol Prasad Aryal",
+    "constituency": "Kathmandu 9",
+    "against": "Krishna Gopal Shrestha (UML) / Tek Bahadur Gurung (NC)",
+    "role": "RSP Vice President / Former Minister",
+    "highlights": "Focusing on labor rights, migrant worker welfare, and fiscal transparency."
+  },
+  {
+    "id": 173,
+    "name": "Pradeep Bista",
+    "constituency": "Kathmandu 10",
+    "against": "Rajan KC (NC) / Himesh KC (UML)",
+    "role": "Grassroots Organizer",
+    "highlights": "Building an RSP stronghold in the Kirtipur area with a focus on university-town integration."
+  },
+  {
+    "id": 174,
+    "name": "Rukesh Ranjit",
+    "constituency": "Bhaktapur 1",
+    "against": "Prem Suwal (NWPP) / Kiran Neupane (NC)",
+    "role": "Cultural Youth Leader",
+    "highlights": "Challenging the NWPP bastion by offering a modern, tech-forward vision for Bhaktapur's youth."
+  },
+  {
+    "id": 175,
+    "name": "Rajiv Khatri",
+    "constituency": "Bhaktapur 2",
+    "against": "Mahesh Basnet (UML) / Kabir Rana (NC)",
+    "role": "Professional Advocate",
+    "highlights": "Contesting in a high-intensity battleground with a focus on anti-corruption and legal aid."
+  },
+  {
+    "id": 176,
+    "name": "Buddharatna Maharjan",
+    "constituency": "Lalitpur 1",
+    "against": "Udaya Shamsher Rana (NC) / Nawaraj Silwal (UML)",
+    "role": "Local Development Expert",
+    "highlights": "Focusing on the rural infrastructure of Southern Lalitpur and agricultural market links."
+  },
+  {
+    "id": 177,
+    "name": "Jagadish Kharel",
+    "constituency": "Lalitpur 2",
+    "against": "Ram Krishna Chitrakar (NC) / Prem Maharjan (UML)",
+    "role": "Former Minister / Media Personality",
+    "highlights": "Leveraging his national fame to push for smart-city initiatives and civil service reform."
+  },
+  {
+    "id": 179,
+    "name": "Pushpa Chaudhary",
+    "constituency": "Saptari 1",
+    "against": "Nawal Kishor Sah (PSP) / Jay Kant Raut (Janamat)",
+    "role": "Grassroots Coordinator",
+    "highlights": "Advocating for flood control management and agricultural subsidies for Saptari's border farmers."
+  },
+  {
+    "id": 180,
+    "name": "Ramji Yadav",
+    "constituency": "Saptari 2",
+    "against": "CK Raut (Janamat) / Upendra Yadav (PSP-N)",
+    "role": "Youth Leader",
+    "highlights": "Contesting in one of the most high-profile Madhesh seats against the Janamat Party Chairman."
+  },
+  {
+    "id": 181,
+    "name": "Umakant Chaudhary",
+    "constituency": "Saptari 3",
+    "against": "Dinesh Kumar Yadav (NC) / Tara Kant Chaudhary (UML)",
+    "role": "Social Activist",
+    "highlights": "Focusing on educational reform and the elimination of the 'Pachhiya' system in rural Madhesh."
+  },
+  {
+    "id": 182,
+    "name": "Sitaram Sah",
+    "constituency": "Saptari 4",
+    "against": "Teju Lal Chaudhary (NC) / Bal Dev Sah (UML)",
+    "role": "Local Entrepreneur",
+    "highlights": "Promoting small-scale industrialization and better market access for local produce."
+  },
+  {
+    "id": 183,
+    "name": "Nitima Karki",
+    "constituency": "Sarlahi 1",
+    "against": "Ram Prakash Chaudhary (LSP) / Man Bahadur Khadka (Independent)",
+    "role": "Women's Empowerment Advocate",
+    "highlights": "The RSP's leading female face in Sarlahi, focusing on healthcare and rural connectivity."
+  },
+  {
+    "id": 184,
+    "name": "Rabin Mahato",
+    "constituency": "Sarlahi 2",
+    "against": "Mahindra Raya Yadav (NCP) / Rajendra Mahato (RSP-Alliance/Independent)",
+    "role": "Youth Reformer",
+    "highlights": "Challenging established regional leaders with a focus on tech-driven governance."
+  },
+  {
+    "id": 185,
+    "name": "Narendra Sah Kalwar",
+    "constituency": "Sarlahi 3",
+    "against": "Hari Prasad Upreti (UML) / NC Proxy",
+    "role": "Civic Leader",
+    "highlights": "Focusing on irrigation projects and the rights of sugarcane farmers in the Sarlahi belt."
+  },
+  {
+    "id": 186,
+    "name": "Dharmaraj KC",
+    "constituency": "Lamjung",
+    "against": "Prithvi Subba Gurung (UML) / Gam Prasad Gurung (NC)",
+    "role": "Energy & Climate Expert",
+    "highlights": "Former advisor to Mahabir Pun; using his global engineering expertise to pitch sustainable hydro and eco-tourism for Lamjung."
+  },
+  {
+    "id": 187,
+    "name": "Rajesh Chaudhary",
+    "constituency": "Rautahat 1",
+    "against": "Madhav Kumar Nepal (NCP) / Ajay Kumar Gupta (UML) / Anil Kumar Jha (NC)",
+    "role": "Former Independent / Civic Leader",
+    "highlights": "A strategic RSP pick to challenge the 'old guard' in Gaur; focusing on municipal transparency and ending political syndicates."
+  },
+  {
+    "id": 188,
+    "name": "Sheikh Sagir",
+    "constituency": "Rautahat 2",
+    "against": "Kiran Kumar Sah (UML) / NC Proxy",
+    "role": "Social Reformer",
+    "highlights": "Advocating for minority representation and the 'Ghanti' agenda of administrative reform in Rautahat."
+  },
+  {
+    "id": 189,
+    "name": "Dhiraj Patel",
+    "constituency": "Rautahat 3",
+    "against": "Prabhu Sah (Independent/Aam Janata Party) / Om Prakash (NC)",
+    "role": "Youth Advocate",
+    "highlights": "Targeting the youth vote by offering a merit-based alternative to traditional muscle-politics in the region."
+  },
+  {
+    "id": 190,
+    "name": "Ganesh Paudel",
+    "constituency": "Rautahat 4",
+    "against": "Dev Prasad Timalsina (NC) / Rishi Dhamala (AJP)",
+    "role": "Governance Analyst",
+    "highlights": "Focusing on the Chure conservation and agricultural modernization for the northern Rautahat belt."
+  },
+  {
+    "id": 191,
+    "name": "Khadak Raj Paudel (Ganesh)",
+    "constituency": "Kaski 1",
+    "against": "Tilak Bahadur Ranabhat (NC) / Bain Bahadur Chhetri (UML)",
+    "role": "Writer / Civic Activist",
+    "highlights": "A well-known intellectual voice in Pokhara; focusing on heritage conservation and the 'Clean Pokhara' initiative."
+  },
+  {
+    "id": 192,
+    "name": "Uttam Paudel",
+    "constituency": "Kaski 2",
+    "against": "Madhav Prasad Bastola (NC) / Rashmi Acharya (UML)",
+    "role": "Social Entrepreneur",
+    "highlights": "Campaigning on a platform of digital transparency in municipal spending and urban planning for Kaski."
+  },
+  {
+    "id": 193,
+    "name": "Bina Gurung",
+    "constituency": "Kaski 3",
+    "against": "Manoj Gurung (NC) / Damodar Paudel Bairagi (UML)",
+    "role": "Women's Rights Advocate",
+    "highlights": "Targeting the rural-urban bridge in Kaski; focusing on health security and sustainable mountain tourism."
+  },
+  {
+    "id": 195,
+    "name": "Parash Gelal",
+    "constituency": "Udayapur 1",
+    "against": "Dr. Narayan Khadka (NC)",
+    "role": "Social Activist",
+    "highlights": "Udayapur madhil vikas kamat pardarshakata aananyasathi ani 'Ghanti' cha prachar karnyathi katibaddha."
+  },
+  {
+    "id": 196,
+    "name": "Surya Bahadur Tamang",
+    "constituency": "Udayapur 2",
+    "against": "Amber Bahadur Rayamajhi (UML)",
+    "role": "Community Leader",
+    "highlights": "Sthanik samasyanchi sodavanuk ani lokshahi mulayanchya japasapasathi RSP kadun umedwar."
+  },
+  {
+    "id": 197,
+    "name": "Dhanendra Karki",
+    "constituency": "Sindhuli 1",
+    "against": "Shyam Kumar Ghimire (NC) / Pradip Kauli (UML)",
+    "role": "Grassroots Coordinator",
+    "highlights": "Advocating for better connectivity and infrastructure in the eastern Sindhuli hills through the RSP's digitalization agenda."
+  },
+  {
+    "id": 198,
+    "name": "Ashish Gajurel",
+    "constituency": "Sindhuli 2",
+    "against": "Lekhnath Dahal 'Rajan' (NCP) / Manoj Jung Thapa (UML)",
+    "role": "Transportation & Infrastructure Expert",
+    "highlights": "A master's graduate from Germany; leveraging his global expertise to propose a sustainable transport masterplan for Sindhuli and the BP Highway."
+  },
+  {
+    "id": 199,
+    "name": "Madhu Kumar Chaulagain",
+    "constituency": "Kavrepalanchok 1",
+    "against": "Suryaman Dong (NCP) / Resham Lama (NC)",
+    "role": "Social Reformer",
+    "highlights": "Kavre ke rural areas mein administrative transparency aur road safety reforms par focus kar rahe hain."
+  },
+  {
+    "id": 200,
+    "name": "Badan Kumar Bhandari",
+    "constituency": "Kavrepalanchok 2",
+    "against": "Gokul Baskota (UML) / NC Proxy Candidate",
+    "role": "Civic Leader / Entrepreneur",
+    "highlights": "Corruption ke khilaaf 'Ghanti' campaign ko lead kar rahe hain aur local businesses ke liye modern infrastructure ki maang kar rahe hain."
   }
 ]

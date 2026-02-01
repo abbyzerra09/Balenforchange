@@ -114,7 +114,7 @@ export default function BalenRevolution2026() {
             <Instagram size={18} />
           </a>
           <a href="https://www.tiktok.com/@rohit_thapa09" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-cyan-400 transition-colors">
-            <Music2 size={18} /> {/* Music2 is the standard icon used for TikTok style links */}
+            <Music2 size={18} /> 
           </a>
         </div>
       </div>
@@ -145,7 +145,6 @@ export default function BalenRevolution2026() {
         </div>
       </div>
 
-      {/* HEADER SECTION (Adjusted padding for the top bar) */}
       <header className="relative pt-24 md:pt-32 pb-16 px-6 text-center overflow-hidden">
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-125 bg-blue-600/10 blur-[120px] rounded-full -z-10"></div>
         <div className="inline-flex items-center gap-2 bg-blue-500/10 border border-blue-500/20 px-4 py-1.5 rounded-full text-blue-400 text-[10px] font-black uppercase tracking-[0.3em] mb-8 animate-pulse">
@@ -173,7 +172,6 @@ export default function BalenRevolution2026() {
       </header>
 
       <main className="max-w-6xl mx-auto px-6">
-        {/* ... Rest of your search and card grid code remains the same ... */}
         <div className="max-w-xl mx-auto mb-16 relative group">
           <input
             type="text"
@@ -215,12 +213,29 @@ export default function BalenRevolution2026() {
                         <h3 className="text-3xl font-bold group-hover:text-blue-400 transition-colors">{c.name}</h3>
                         <span className="bg-white/10 px-3 py-1 rounded-lg text-[10px] font-mono whitespace-nowrap">{c.constituency}</span>
                     </div>
+                    {/* FIXED: Explicitly calling c.role */}
                     <p className="text-blue-500 font-bold text-xs uppercase tracking-tighter mt-1">{c.role}</p>
+                  </div>
+
+                  {/* AGAINST SECTION */}
+                  <div className="mb-6 flex flex-col items-center">
+                    <div className="w-full flex items-center gap-2 mb-2">
+                      <div className="h-px flex-1 bg-white/10"></div>
+                      <span className="text-[9px] font-black uppercase text-slate-500 tracking-[0.2em]">The Battle</span>
+                      <div className="h-px flex-1 bg-white/10"></div>
+                    </div>
+                    <div className="w-full bg-red-500/5 border border-red-500/10 rounded-2xl p-4 flex flex-col items-center group-hover:bg-red-500/10 transition-colors">
+                      <span className="text-[10px] font-bold text-red-500/60 uppercase tracking-tighter mb-1">Challenging</span>
+                      <span className="text-xl font-black text-slate-200 tracking-tight text-center">
+                        {c.against || "Traditional Elite"}
+                      </span>
+                    </div>
                   </div>
 
                   <div className="space-y-4 mb-8">
                     <p className="text-sm text-slate-300 leading-relaxed italic p-4 bg-white/5 rounded-2xl border-l-4 border-blue-500">
-                      "{c.highlight}"
+                      {/* FIXED: fallback between highlight and highlights to prevent empty strings */}
+                      "{c.highlights || c.highlight}"
                     </p>
                   </div>
 
