@@ -150,7 +150,7 @@ export default function BalenRevolution2026() {
         <div className="inline-flex items-center gap-2 bg-blue-500/10 border border-blue-500/20 px-4 py-1.5 rounded-full text-blue-400 text-[10px] font-black uppercase tracking-[0.3em] mb-8 animate-pulse">
             Live Election Countdown
         </div>
-        <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-6">
+        <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-5">
           BALEN FOR <span className="bg-linear-to-r from-blue-400 to-indigo-600 bg-clip-text text-transparent ">PM</span>
         </h1>
         <p className='text-md md:text-2xl font-serif'>Time Remained for the Election</p>
