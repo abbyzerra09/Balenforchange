@@ -776,22 +776,6 @@
     "highlights": "Ringing the 'Ghanti' for social equality and anti-discrimination policies."
   },
   {
-    "id": 110,
-    "name": "Thakur Singh Tharu",
-    "constituency": "Bardiya 1",
-    "against": "Sanjay Gautam (NC)",
-    "role": "Investigative Journalist",
-    "highlights": "Using media-tech to track and expose local government budget leaks."
-  },
-  {
-    "id": 111,
-    "name": "Shridhar Pokharel",
-    "constituency": "Bardiya 2",
-    "against": "Bimala Bik (NCP)",
-    "role": "Governance Analyst",
-    "highlights": "Focusing on irrigation projects and agricultural modernization in Bardiya."
-  },
-  {
     "id": 112,
     "name": "Lalit Kumar Chand",
     "constituency": "Salyan",
@@ -1030,14 +1014,6 @@
     "against": "Damodar Bhandari (UML)",
     "role": "Legal Professional",
     "highlights": "Promoting the rule of law and transparency in local project contracting."
-  },
-  {
-    "id": 161,
-    "name": "Sita Ram Tharu",
-    "constituency": "Bardiya 2",
-    "against": "To be decided by chair",
-    "role": "Community Coordinator",
-    "highlights": "Focusing on the land rights of the landless and marginalized communities."
   },
   {
     "id": 165,
